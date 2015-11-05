@@ -8,7 +8,7 @@
 </head>
 <body>
    <header role="banner">
-
+        <?php include('includes/header.php');?>
    </header>
 
    <main role="main">
@@ -16,7 +16,7 @@
    </main>
 
    <footer>
-
+        <?php include('includes/footer.php');?>
    </footer>
 </body>
 
