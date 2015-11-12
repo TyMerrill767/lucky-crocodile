@@ -22,6 +22,7 @@ Color Palette
 
 /* ------------ ‘HEADER ------------*/
 /*global styles*/
+/* navigation styling */
 nav ul li{
     display: inline;
     list-style: none;
@@ -29,7 +30,7 @@ nav ul li{
 
 /*mobile styles*/
 @media only screen and (max-width:480px){
-    /* #menu is the original menu */
+    /* navigation styling */
     #menu{
         display: none;
     }
@@ -46,6 +47,7 @@ nav ul li{
 
 /*tablet styles*/
 @media only screen and (min-width: 481px) and (max-width:768px){
+    /* navigation styling */
     .slicknav_menu{
         display: none;
     }
@@ -53,6 +55,7 @@ nav ul li{
 
 /*desktop styles*/
 @media only screen and (min-width:769px){
+    /* navigation styling */
     .slicknav_menu{
         display: none;
     }
