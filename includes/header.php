@@ -1,4 +1,4 @@
-<nav role="navigation">
+<nav role="navigation" id="menu">
     <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="dangers.php">Dangers</a></li>
