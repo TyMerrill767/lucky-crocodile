@@ -1,0 +1,89 @@
+/*
+
+Table of Contents
+
+RESET - normalize.css reference
+
+HEADER - Site name, logo, navigation
+
+SIDEBAR - Submenu, search bar, shortlists
+
+MAIN CONTENT - Articles, search results
+
+FOOTER – Copyright
+
+Color Palette
+
+*/
+
+/* ------------ ‘RESET ------------*/
+@import url("normalize.css");
+
+/* ------------ ‘HEADER ------------*/
+/*global styles*/
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:768px){
+
+}
+
+/*desktop styles*/
+@media only screen and (min-width:769px){
+
+}
+/* ------------ ‘MAIN CONTENT------------*/
+/*global styles*/
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:768px){
+
+}
+
+/*desktop styles*/
+@media only screen and (min-width:769px){
+
+}
+/* ------------ ‘SIDEBAR ------------*/
+/*global styles*/
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:768px){
+
+}
+
+/*desktop styles*/
+@media only screen and (min-width:769px){
+
+}
+/* ------------ ‘FOOTER ------------*/
+/*global styles*/
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:768px){
+
+}
+
+/*desktop styles*/
+@media only screen and (min-width:769px){
+
+}
