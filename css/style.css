@@ -34,6 +34,11 @@ nav ul li{
         display: none;
     }
 
+    nav ul li{
+        text-align: center;
+        width: 100%;
+    }
+
     .js .slicknav_menu{
         display: block;
     }
