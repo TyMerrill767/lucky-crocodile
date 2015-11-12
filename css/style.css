@@ -21,7 +21,10 @@ Color Palette
 
 /* ------------ ‘HEADER ------------*/
 /*global styles*/
-
+nav ul li{
+    display: inline;
+    list-style: none;
+}
 /*mobile styles*/
 @media only screen and (max-width:480px){
 
