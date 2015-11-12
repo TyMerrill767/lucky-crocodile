@@ -26,19 +26,31 @@ nav ul li{
     display: inline;
     list-style: none;
 }
+
 /*mobile styles*/
 @media only screen and (max-width:480px){
+    /* #menu is the original menu */
+    #menu{
+        display: none;
+    }
 
+    .js .slicknav_menu{
+        display: block;
+    }
 }
 
 /*tablet styles*/
 @media only screen and (min-width: 481px) and (max-width:768px){
-
+    .slicknav_menu{
+        display: none;
+    }
 }
 
 /*desktop styles*/
 @media only screen and (min-width:769px){
-
+    .slicknav_menu{
+        display: none;
+    }
 }
 /* ------------ ‘MAIN CONTENT------------*/
 /*global styles*/
