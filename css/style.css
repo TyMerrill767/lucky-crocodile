@@ -18,6 +18,7 @@ Color Palette
 
 /* ------------ ‘RESET ------------*/
 @import url("normalize.css");
+@import url("slicknav.min.css");
 
 /* ------------ ‘HEADER ------------*/
 /*global styles*/
