@@ -34,13 +34,13 @@
 
       $("#owl-demo").owlCarousel({
 
-          navigation : true, // Show next and prev buttons
-          slideSpeed : 300,
-          paginationSpeed : 400,
-          singleItem:true,
-          autoPlay: 1000,
+     // Show next and prev buttons
+          slideSpeed: 800,
+          paginationSpeed: 800,
+          singleItem: true,
+          autoPlay: 7000,
           navigation: false,
-          stopOnHover: true;
+          stopOnHover: true,
 
           // "singleItem:true" is a shortcut for:
           // items : 1,
