@@ -1,3 +1,13 @@
+<div id="owl-demo" class="owl-carousel owl-theme">
+
+  <div class="item"><img src="images/coffee.png" alt=""></div>
+  <div class="item"><img src="images/milk.png" alt=""></div>
+  <div class="item"><img src="images/money.png" alt=""></div>
+  <div class="item"><img src="images/Rx.png" alt=""></div>
+  <div class="item"><img src="images/wine.png" alt=""></div>
+
+</div>
+
 <nav role="navigation" id="menu">
     <ul>
         <li><a href="index.php">Home</a></li>

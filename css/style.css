@@ -22,12 +22,17 @@ Color Palette
 
 /* ------------ ‘HEADER ------------*/
 /*global styles*/
-/* navigation styling */
+/* header styling */
 nav ul li{
     display: inline;
     list-style: none;
 }
 
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
 /*mobile styles*/
 @media only screen and (max-width:480px){
     /* navigation styling */
