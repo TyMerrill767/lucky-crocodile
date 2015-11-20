@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>MBAT Car Safety -- Home</title>
+<title>D.O.N.T. -- Home</title>
 <?php include('includes/head.php');?>
 </head>
 <body>

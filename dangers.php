@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>MBAT Car Safety -- Dangers of Leaving Your Child Unattended in a Vehicle</title>
+<title>D.O.N.T. -- Dangers of Leaving Your Child Unattended in a Vehicle</title>
 <?php include('includes/head.php');?>
 </head>
 <body>
