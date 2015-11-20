@@ -30,12 +30,13 @@ nav ul li{
 
 #owl-demo .item img{
     display: block;
-    width: 100%;
     height: auto;
+    width: 100%;
 }
+
 /*mobile styles*/
 @media only screen and (max-width:480px){
-    /* navigation styling */
+    /* header styling */
     #menu{
         display: none;
     }
@@ -47,6 +48,10 @@ nav ul li{
 
     .js .slicknav_menu{
         display: block;
+    }
+
+    #owl-demo{
+        width: 49%;
     }
 }
 
