@@ -1,3 +1,5 @@
+<img src="images/DONT_logo.png" alt="D.O.N.T. logo">
+
 <div id="owl-demo" class="owl-carousel owl-theme">
 
   <div class="item"><img src="images/coffee.png" alt=""></div>
