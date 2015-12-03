@@ -10,6 +10,13 @@
    </header>
 
    <main role="main">
+
+        <p>Chapter: </p>
+        <p>Theme: Toddler Neglect in Vehicles</p>
+        <p>School: Francis Tuttle Technology Center</p>
+        <p>City: Oklahoma City, OK</p>
+        <p>Year: 2015</p>
+
         <img src="" alt="Tyler Picture">
         <p>Tyler Merrill</p>
 
