@@ -16,5 +16,6 @@
         <li><a href="dangers.php">Dangers</a></li>
         <li><a href="prevention.php">Prevention</a></li>
         <li><a href="action.php">Take Action</a></li>
+        <li><a href="about.php">About Us</a></li>
     </ul>
 </nav>
