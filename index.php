@@ -13,7 +13,7 @@
 
         <h1>Toddler Neglect in Vehicles</h1>
 
-        <p>Each year, an average of 35 children die due to vehicular heat stroke. Over 100 die due to back- and front-overs. Others die from the vehicle accidentally being set in motion, strangulation by power windows, choking on small objects, and more. One by one, these young lives were ended before their time. But what makes them especially tragic is that each and every one of them was preventable.</p>
+        <p>Each year, an average of 37 children die due to vehicular heat stroke. Over 100 die due to back- and front-overs. Others die from the vehicle accidentally being set in motion, strangulation by power windows, choking on small objects, and more. One by one, these young lives were ended before their time. But what makes them especially tragic is that each and every one of them was preventable.</p>
 
         <img src="images/child.png" alt="Child">
 
