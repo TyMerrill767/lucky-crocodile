@@ -13,10 +13,11 @@
         <h1>Prevention and Precautions</h1>
         <p>So now that you know the dangers, what can you do to prevent tragedy?</p>
 
-        <img src="images/78_2536958.JPG" alt="placeholder">
+        <img src="images/prevention.png" alt="Prevention Tips Child">
 
         <section>
-        <h2>Inside the Car</h2>
+        <h2>Inside the Vehicle</h2>
+        <img src="images/under_seat.png" alt="Under Seat Image">
         <ul>
             <li>Clean your car regularly – especially of small objects such as trinkets, toys, or stray food items that may have fallen into hidden spaces; be sure to look under seats and in storage areas</li>
             <li>Choose foods that are easily chewed and swallowed to prevent choking, or cut foods into small pieces and remove things such as seeds and pits, and never leave a child unattended while eating</li>
@@ -25,10 +26,9 @@
         </ul>
        </section>
 
-        <img src="images/78_2536958.JPG" alt="placeholder">
-
         <section>
-            <h2>Outside the Car</h2>
+            <h2>Outside the Vehicle</h2>
+
             <ul>
                 <li>Always bring your child with you when you exit the vehicle – no amount of time is safe to leave your child unattended in the vehicle, even for “just a minute”, and it is illegal to do so in some states</li>
                 <li>Be sure that you lock the vehicle’s doors and trunk after exiting with your child – even when parked and at home, a vehicle can endanger a child, as they can become trapped within it if left open</li>
@@ -38,6 +38,7 @@
 
        <section>
            <h2>In General</h2>
+
            <ul>
                <li>Familiarize yourself with life-saving techniques such as the Heimlich Maneuver, child cardiopulminary resuscitation (CPR), and other first-aid measures, and call 911 for emergencies</li>
                <li>Be sure your child's caretaker(s) are aware of the dangers and solutions, and always have a plan of action in case of emergency</li>
@@ -45,6 +46,7 @@
            </ul>
        </section>
 
+   <a href="action.php">Find out how you can take action >></a>
    </main>
 
    <footer>
