@@ -74,6 +74,66 @@ nav ul li{
     .slicknav_menu{
         display: none;
     }
+
+    #homeNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") 0px 25px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #homeNav:hover{
+        background-position: 0px 0px;
+    }
+
+    #dangerNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") -130px 25px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #dangerNav:hover{
+        background-position: -130px 0px;
+    }
+
+    #prevNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") -260px 25px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #prevNav:hover{
+        background-position: -260px 0px;
+    }
+
+    #actionNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") -30px -115px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #actionNav:hover{
+        background-position: -30px -140px;
+    }
+
+    #aboutNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") -185px -140px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #aboutNav:hover{
+        background-position: -185px -165px;
+    }
 }
 /* ------------ ‘MAIN CONTENT------------*/
 /*global styles*/
