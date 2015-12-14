@@ -1,0 +1,42 @@
+<link rel="stylesheet" href="css/presentation.css">
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/owl.theme.css">
+
+<div id="owl-demo" class="owl-carousel owl-theme">
+
+<div class="item"><img src="images/presentation_slides/slide1.png" alt="Presentation Slide"></div>
+<div class="item"><img src="images/presentation_slides/slide2.png" alt="Presentation Slide"></div>
+<div class="item"><img src="images/presentation_slides/tyler/tslide3.png" alt="Presentation Slide"></div>
+<div class="item"><img src="images/presentation_slides/tyler/tslide4.png" alt="Presentation Slide"></div>
+<div class="item"><img src="images/presentation_slides/tyler/tslide5.png" alt="Presentation Slide"></div>
+
+</div>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.slicknav.min.js"></script>
+<script src="js/owl.carousel.js"></script>
+
+<!--Initializes responsive menu functionality-->
+<script>
+	$(function(){
+		$('#menu').slicknav();
+	});
+</script>
+
+<script>
+    $(document).ready(function() {
+
+      $("#owl-demo").owlCarousel({
+
+     // Show next and prev buttons
+          slideSpeed: 800,
+          paginationSpeed: 800,
+          singleItem: true,
+          navigation: true,
+          stopOnHover: true,
+
+      });
+
+    });
+</script>
