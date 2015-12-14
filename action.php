@@ -10,8 +10,10 @@
    </header>
 
    <main role="main">
-        <img src="images/take_action.png" alt="">
-        <p>Fusce consequat ut diam et dapibus. Etiam tincidunt ex vitae tortor pharetra, eu tincidunt lectus facilisis. Nunc ac diam eget justo venenatis ornare. Mauris molestie nisl id ipsum pretium vehicula. Duis semper laoreet urna ut sollicitudin. Curabitur est nisl, finibus ut facilisis ut, congue at arcu. Morbi vitae odio eget lectus commodo fringilla. Etiam laoreet orci enim. Nunc elementum eros efficitur pretium convallis. Aenean ut odio eget odio mollis vehicula vel a nisi. Ut nec turpis lacinia, bibendum urna id, lobortis nulla. Duis tristique lacus nulla, non luctus nisl dapibus id. Donec eget justo nec tortor lacinia ultricies ac vitae lorem. Aenean aliquet ante a sem sollicitudin finibus. Sed aliquam sem in finibus tempus. Vestibulum accumsan porttitor sapien, semper iaculis mi efficitur ut. </p>
+        <img src="images/take_action.png" alt="Three Circles Child Safety">
+        <p>As someone with a personal connection to the field of child vehicle safety, be it through your own experience or that of a loved one, you are in a unique position to offer hope, understanding and vital information to others. At the same time, it is important to carefully consider the potential impact of your message on the community, as well the effects of self-disclosure on your personal well-being and for the well being of your children.</p>
+
+        <p>In the world of parenting, danger awaits around every corner. You have to be willing to put in the effort to protect your children from it. You are their guardian, their protector, YOU are responsible for what happens to your child so use what you now know about child vehicle safety and make a difference.</p>
    </main>
 
    <footer>
