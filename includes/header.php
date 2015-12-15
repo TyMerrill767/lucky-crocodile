@@ -10,12 +10,14 @@
     </ul>
 </nav>
 
-<div id="owl-demo" class="owl-carousel owl-theme">
+<div id="slide-area">
+    <div id="owl-demo" class="owl-carousel owl-theme">
 
-  <div class="item"><img src="images/coffee.png" alt="Slide"></div>
-  <div class="item"><img src="images/milk.png" alt="Slide"></div>
-  <div class="item"><img src="images/money.png" alt="Slide"></div>
-  <div class="item"><img src="images/Rx.png" alt="Slide"></div>
-  <div class="item"><img src="images/wine.png" alt="Slide"></div>
+          <div class="item"><img src="images/coffee.png" alt="Slide"></div>
+          <div class="item"><img src="images/milk.png" alt="Slide"></div>
+          <div class="item"><img src="images/money.png" alt="Slide"></div>
+          <div class="item"><img src="images/Rx.png" alt="Slide"></div>
+          <div class="item"><img src="images/wine.png" alt="Slide"></div>
 
+    </div>
 </div>
