@@ -19,6 +19,7 @@ Color Palette
 /* ------------ ‘RESET ------------*/
 @import url("normalize.css");
 @import url("slicknav.min.css");
+@import url("carousel.css");
 
 /* ------------ ‘HEADER ------------*/
 /*global styles*/
@@ -26,6 +27,16 @@ Color Palette
 nav ul li{
     display: inline;
     list-style: none;
+}
+
+#owl-demo{
+    margin: auto;
+    padding-top: 20px;
+}
+
+#slide-area{
+    width: 100%;
+    background: #6B6B6B;
 }
 
 #owl-demo .item img{
