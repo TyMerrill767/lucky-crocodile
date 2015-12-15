@@ -14,15 +14,17 @@
 
       $("#owl-demo").owlCarousel({
 
-     // Show next and prev buttons
           slideSpeed: 800,
           paginationSpeed: 800,
           singleItem: true,
           autoPlay: 7000,
-          navigation: false,
+          navigation: true,
+          navigationText: ["<i class='fa fa-arrow-left'></i>", "<i class='fa fa-arrow-right'></i>"],
           stopOnHover: true,
 
       });
 
     });
+
+
 </script>
