@@ -7,7 +7,7 @@
         <li><a href="prevention.php" id="prevNav">Prevention</a></li>
         <li><a href="action.php" id="actionNav">Take Action</a></li>
         <li><a href="about.php" id="aboutNav">About Us</a></li>
-        <li><a href="resources.php" id="aboutNav">Resoures</a></li>
+        <li><a href="resources.php" id="resourceNav">Resoures</a></li>
     </ul>
 </nav>
 
