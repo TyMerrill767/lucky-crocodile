@@ -18,6 +18,7 @@
           <div class="item"><img src="images/money.png" alt="Slide"></div>
           <div class="item"><img src="images/Rx.png" alt="Slide"></div>
           <div class="item"><img src="images/wine.png" alt="Slide"></div>
+          <div class="item"><img src="images/money_baby.png" alt="Slide"></div>
 
     </div>
 </div>
