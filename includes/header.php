@@ -1,5 +1,5 @@
-<img src="images/DONT_logo.png" alt="D.O.N.T. logo" id="logo">
-
+<img src="images/logo_only.png" alt="D.O.N.T. logo" id="logo">
+<p id="tagline">Drivers Opposed to Neglecting Toddlers</p>
 <nav role="navigation" id="menu">
     <ul>
         <li><a href="index.php" id="homeNav">Home</a></li>
@@ -7,11 +7,11 @@
         <li><a href="prevention.php" id="prevNav">Prevention</a></li>
         <li><a href="action.php" id="actionNav">Take Action</a></li>
         <li><a href="about.php" id="aboutNav">About Us</a></li>
-        <li><a href="resources.php" id="resourceNav">Resoures</a></li>
+        <li><a href="resources.php" id="resourceNav">Resources</a></li>
     </ul>
 </nav>
 
-<div id="slide-area">
+<!--<div id="slide-area">
     <div id="owl-demo" class="owl-carousel owl-theme">
 
           <div class="item"><img src="images/coffee.png" alt="Slide"></div>
@@ -22,4 +22,4 @@
           <div class="item"><img src="images/money_baby.png" alt="Slide"></div>
 
     </div>
-</div>
+</div>-->
