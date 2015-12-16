@@ -1,0 +1,277 @@
+/*
+
+Table of Contents
+
+RESET - normalize.css reference
+
+HEADER - Site name, logo, navigation
+
+SIDEBAR - Submenu, search bar, shortlists
+
+MAIN CONTENT - Articles, search results
+
+FOOTER – Copyright
+
+Color Palette
+
+*/
+
+/* ------------ ‘RESET ------------*/
+@import url("normalize.css");
+@import url("slicknav.min.css");
+
+/* ------------ ‘HEADER ------------*/
+/*global styles*/
+html{
+    background: #e5d8b8;
+}
+header{
+    background: rgba(0, 119, 136, 0.9);
+}
+body{
+    font-family: 'Droid Sans', Helvetica, sans-serif;
+    margin: auto;
+}
+resize{
+    height: auto;
+    width: 100%;
+}
+/* header styling */
+nav{
+    background-color: #078;
+    font-size: 1.5em;
+    font-weight: 400;
+    padding: .5em 0;
+    text-align: center;
+}
+nav li{
+    align-content: center;
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+    padding: 0 .6em;
+}
+.nav{
+    background-image: url(../images/nav_icon.png);
+    background-repeat: no-repeat;
+    padding-top: 5em;
+}
+.nav2{
+    background-image: url(../images/navicons.png);
+    background-repeat: no-repeat;
+    padding-top: 5em;
+}
+#tagline{
+    color: #fff;
+    margin: 0;
+    text-align: center;
+}
+.home{
+    background-position: -5px 60px;
+}
+.dangers{
+    background-position: -115px 70px;
+}
+.prev{
+    background-position: -240px 60px;
+}
+.action{
+    background-position: 5px 65px;
+}
+.about{
+    background-position: -150px 45px;
+}
+.home:hover{
+    background-position: -2px -3px;
+}
+.dangers:hover{
+    background-position: -115px 0;
+}
+.prev:hover{
+    background-position: -240px 0;
+}
+.action:hover{
+    background-position: 5px 5px;
+}
+.about:hover{
+    background-position: -150px 0px;
+}
+.home:hover,
+.dangers:hover,
+.prev:hover,
+.action:hover,
+.about:hover{
+    -webkit-transition: all .5s ease 0s;
+	-o-transition: all .5s ease 0s;
+	transition: all .5s ease 0s;
+}
+nav a:hover{
+    color: #f63;
+}
+#owl-demo .item img{
+    display: block;
+    height: auto;
+    width: 100%;
+}
+#logo{
+    display: block;
+    margin: auto;
+    max-width: 70%;
+}
+
+/* ------------ Main Content ------------*/
+main{
+    margin: auto;
+    max-width: 1400px;
+    padding: .5em 5em 3em;
+}
+h1{
+    font-size: 3em;
+}
+p{
+    font-size: 1.25em;
+}
+a{
+    color: #c33;
+    text-decoration: none;
+}
+
+.resize{
+    height: auto;
+    width: 80%;
+}
+.child_safety{
+    width: 90%;
+}
+.action_columns{
+    -moz-column-width: 300px;
+    -webkit-column-width: 300px;
+    column-width: 300px;
+    -moz-column-gap: 2em;
+    -webkit-column-gap: 2em;
+    column-gap: 2em;
+}
+.bpa_info{
+    border: 1px dotted black;
+    padding: 0 2em;
+}
+.cir_shape img{
+    -webkit-shape-outside: circle();
+    shape-outside: circle();
+}
+.about_image{
+    float: left;
+    height: auto;
+    width: 50%;
+}
+.tyler{
+    margin-top: 1em;
+}
+
+/* ------------ Sidebar ------------*/
+/* ------------ Footer -------------*/
+/* -------------------------------- Media Styles ---------------------------------*/
+/*tablet styles*/
+@media only screen and (max-width:850px){
+    /* header styling */
+    #menu{
+        display: none;
+    }
+    nav ul li{
+        text-align: center;
+        width: 100%;
+    }
+    .js .slicknav_menu{
+        display: block;
+    }
+    .slicknav_menu{
+        background-color: #078;
+    }
+    .slicknav_menu li{
+        font-size: 1.5em;
+        padding: 0 0 .25em;
+    }
+    .slicknav_nav a:hover{
+        color: #f63;
+    }
+    #logo{
+        height: auto;
+        padding-bottom: 0;
+    }
+    main{
+        padding: .5em 1.25em 3em;
+    }
+    .about_image{
+        height: auto;
+        width: 80%;
+    }
+/*
+    #owl-demo{
+        width: 49%;
+    }
+*/
+}
+
+/*desktop styles*/
+@media only screen and (min-width:851px){
+    /* navigation styling */
+    .slicknav_menu{
+        display: none;
+    }
+
+    #home-page-main{
+        margin: auto;
+        width: 80%;
+    }
+    #home-page-main h1{
+        text-align: center;
+    }
+    #home-page-main img{
+        width: 85%;
+    }
+    #tagline{
+        font: 300% Anton;
+        line-height: 2em;
+    }
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:850px){
+    #home-page-main{
+        font-size: 85%;
+        margin: auto;
+        width: 90%;
+    }
+    #home-page-main h1{
+        text-align: center;
+    }
+    #home-page-main img{
+        width: 95%;
+    }
+    #tagline{
+        font: 180% Anton;
+    }
+}
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+    #home-page-main{
+        font-size: 75%;
+        margin: auto;
+        width: 90%;
+    }
+    #home-page-main h1{
+        font-size: 200%;
+        text-align: center;
+    }
+    #home-page-main img{
+        width: 95%;
+    }
+    #tagline{
+        font: 130% Anton;
+    }
+}
