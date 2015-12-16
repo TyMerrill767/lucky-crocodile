@@ -20,9 +20,10 @@
         <p>It isn't a matter of being a good or bad parent, or being an irresponsible person; all it takes is a momentary lapse of judgment on the part of an otherwise loving caretaker to endanger the life of a small child in a vehicle. This is because there are so many dangers lurking in and around a vehicle, both obvious and hidden, that can claim a child's life before one has time to realize it.</p>
 
         <p>So how can you avoid these tragedies? Read on to learn about the dangers and solutions to leaving a child alone in a vehicle, and how you can take action to avoid repeating these unfortunate mistakes before they happen.</p>
+
+       <a href="dangers.php" class="next-page-link">Dangers of leaving your child in a vehicle >></a>
    </main>
 
-   <a href="dangers.php">Dangers of leaving your child in a vehicle >></a>
    <footer>
         <?php include('includes/footer.php');?>
    </footer>
