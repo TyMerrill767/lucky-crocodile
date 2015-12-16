@@ -11,7 +11,7 @@
 
    <main role="main">
         <h1>Dangers</h1>
-        <p>There are many things in any vehicle that can endanger a child, not all of them obvious. Listed below are the many dnagers a child can encounter if left in a vehicle.</p>
+        <p>There are many things in any vehicle that can endanger a child, not all of them obvious. Listed below are the many dangers a child can encounter if left in a vehicle.</p>
         <img src="images/interior1.png" alt="Car Interior 1">
         <h2>Heat Stroke</h2>
         <h3>How It Happens:</h3>
@@ -133,7 +133,7 @@
             <li>Always make sure your children are properly secured in their set while driving.</li>
         </ul>
 
-       <a href="prevention.php">How to prevent these dangers >></a>
+       <a href="prevention.php" class="next-page-link">How to prevent these dangers &gt;&gt;</a>
    </main>
 
    <footer>
