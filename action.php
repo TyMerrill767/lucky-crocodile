@@ -10,6 +10,7 @@
    </header>
 
    <main role="main">
+       <h1>Take Action</h1>
         <img src="images/take_action.png" alt="Three Circles Child Safety">
         <p>As someone with a personal connection to the field of child vehicle safety, be it through your own experience or that of a loved one, you are in an exclusive position to offer hope, understanding and crucial information to others. At the same time, it is important to carefully consider the potential impact of your message on the community, as well the effects of self-discovery on your personal well-being and for the well being of your children. </p>
 

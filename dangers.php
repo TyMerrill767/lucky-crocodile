@@ -12,7 +12,7 @@
    <main role="main">
         <h1>Dangers</h1>
         <p>There are many things in any vehicle that can endanger a child, not all of them obvious. Listed below are the many dangers a child can encounter if left in a vehicle.</p>
-        <img src="images/interior1.png" alt="Car Interior 1">
+        <img src="images/interior1.png" alt="Car Interior 1" class="resize">
         <h2>Heat Stroke</h2>
         <h3>How It Happens:</h3>
         <ul>
@@ -49,7 +49,7 @@
             <li>You can also put something in the back to keep your child from falling asleep like a toy or a diaper bag. If they fall asleep they can't give you auditory clues.</li>
             <li>Try and get into the habit of looking in your back seats before you lock your car.</li>
         </ul>
-        <img src="images/interior2.png" alt="Car Interior 2">
+        <img src="images/interior2.png" alt="Car Interior 2" class="resize">
         <h2>Choking</h2>
         <h3>How It Happens:</h3>
         <ul>
@@ -103,7 +103,7 @@
             <li>Keep all sports equipment and toys out of the driveway.</li>
             <li>Know where your kids are before you go anywhere.</li>
         </ul>
-        <img src="images/interior3.png" alt="Car Interior 3">
+        <img src="images/interior3.png" alt="Car Interior 3" class="resize">
         <h2>Vehicle Accidentally Getting Set In Motion</h2>
         <h3>How It Happens:</h3>
         <ul>
