@@ -23,10 +23,10 @@ Color Palette
 /* ------------ ‘HEADER ------------*/
 /*global styles*/
 html{
-    background: #e5d8b8;
+    background: #FEE3B8;
 }
 header{
-    background: rgba(0, 119, 136, 0.9);
+    background: #E8E8E8;
 }
 body{
     font-family: 'Droid Sans', Helvetica, sans-serif;
@@ -38,7 +38,7 @@ resize{
 }
 /* header styling */
 nav{
-    background-color: #078;
+    background-color: #327F9B;
     font-size: 1.5em;
     font-weight: 400;
     padding: .5em 0;
@@ -53,58 +53,61 @@ nav li{
 nav a{
     color: #fff;
     text-decoration: none;
-    padding: 0 .6em;
+    padding: 0 .5em;
 }
 .nav{
-    background-image: url(../images/nav_icon.png);
-    background-repeat: no-repeat;
-    padding-top: 5em;
-}
-.nav2{
     background-image: url(../images/navicons.png);
     background-repeat: no-repeat;
     padding-top: 5em;
 }
 #tagline{
-    color: #fff;
+    color: #8e1418;
     margin: 0;
+    padding-bottom: 50px;
     text-align: center;
 }
 .home{
-    background-position: -5px 60px;
+    background-position: 5px 60px;
 }
 .dangers{
-    background-position: -115px 70px;
+    background-position: -92px 70px;
 }
 .prev{
-    background-position: -240px 60px;
+    background-position: -196px 60px;
 }
 .action{
-    background-position: 5px 65px;
+    background-position: -301px 47px;
 }
 .about{
-    background-position: -150px 45px;
+    background-position: -425px 30px;
+}
+.resources{
+    background-position: -540px 55px;
 }
 .home:hover{
-    background-position: -2px -3px;
+    background-position: 5px 10px;
 }
 .dangers:hover{
-    background-position: -115px 0;
+    background-position: -92px 15px;
 }
 .prev:hover{
-    background-position: -240px 0;
+    background-position: -196px 8px;
 }
 .action:hover{
-    background-position: 5px 5px;
+    background-position: -301px 0;
 }
 .about:hover{
-    background-position: -150px 0px;
+    background-position: -425px 0;
+}
+.resources:hover{
+    background-position: -540px 8px;
 }
 .home:hover,
 .dangers:hover,
 .prev:hover,
 .action:hover,
-.about:hover{
+.about:hover,
+.resources:hover{
     -webkit-transition: all .5s ease 0s;
 	-o-transition: all .5s ease 0s;
 	transition: all .5s ease 0s;
@@ -120,6 +123,7 @@ nav a:hover{
 #logo{
     display: block;
     margin: auto;
+    padding-top: 5px;
     max-width: 70%;
 }
 
@@ -142,6 +146,7 @@ a{
 #owl-demo{
     margin: auto;
     padding-top: 20px;
+    width: 40%;
 }
 .resize{
     height: auto;
@@ -162,21 +167,30 @@ a{
     border: 1px dotted black;
     padding: 0 2em;
 }
+.cir_shape{
+    clear: both;
+    width: 100%;
+}
 .cir_shape img{
+    margin: 2em 1em 2em .5em;
     -webkit-shape-outside: circle();
     shape-outside: circle();
+    width: 50%;
+}
+.cir_shape h3{
+    color: #f63;
+    font-weight: 100;
+    padding-top: 2em;
 }
 .about_image{
     float: left;
     height: auto;
     width: 50%;
 }
-.tyler{
-    margin-top: 1em;
+.resource_img{
+    height: auto;
+    width: 100%;
 }
-
-/* ------------ Sidebar ------------*/
-/* ------------ Footer -------------*/
 /* -------------------------------- Media Styles ---------------------------------*/
 /*tablet styles*/
 @media only screen and (max-width:850px){
@@ -212,11 +226,6 @@ a{
         height: auto;
         width: 80%;
     }
-/*
-    #owl-demo{
-        width: 49%;
-    }
-*/
 }
 
 /*desktop styles*/
@@ -229,9 +238,6 @@ a{
     #home-page-main{
         margin: auto;
         width: 80%;
-    }
-    #home-page-main h1{
-        text-align: center;
     }
     #home-page-main img{
         width: 85%;
@@ -248,9 +254,6 @@ a{
         font-size: 85%;
         margin: auto;
         width: 90%;
-    }
-    #home-page-main h1{
-        text-align: center;
     }
     #home-page-main img{
         width: 95%;
@@ -269,7 +272,6 @@ a{
     }
     #home-page-main h1{
         font-size: 200%;
-        text-align: center;
     }
     #home-page-main img{
         width: 95%;
