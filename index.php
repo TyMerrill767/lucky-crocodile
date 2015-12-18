@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php $thisPage="Home"; ?>
 <html lang="en">
 <head>
 <title>D.O.N.T. -- Home</title>

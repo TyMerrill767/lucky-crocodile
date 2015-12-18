@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php $thisPage="Resources" ?>
 <html lang="en">
 <head>
 <title>D.O.N.T. -- Resources</title>
