@@ -139,11 +139,6 @@ nav a:hover,
 #resources-active{
     color: #f63;
 }
-#owl-demo .item img{
-    display: block;
-    height: auto;
-    width: 100%;
-}
 #logo{
     display: block;
     margin: auto;
@@ -167,10 +162,10 @@ a{
     color: #c33;
     text-decoration: none;
 }
-#owl-demo{
-    margin: auto;
-    padding-top: 20px;
-    width: 40%;
+#owl-demo .item img{
+    display: block;
+    height: auto;
+    width: 100%;
 }
 .resize{
     height: auto;
@@ -235,20 +230,6 @@ a{
     position: absolute;
 }
 
-.owl-theme .owl-controls .owl-buttons .owl-prev{
-    font-size: 3em;
-    left: -100px;
-    opacity: 1;
-    top: 200px;
-}
-
-.owl-theme .owl-controls .owl-buttons .owl-next{
-    font-size: 3em;
-    opacity: 1;
-    right: -100px;
-    top: 200px;
-}
-
 /* -------------------------------- Media Styles ---------------------------------*/
 /*tablet styles*/
 @media only screen and (max-width:850px){
@@ -304,6 +285,23 @@ a{
         font: 300% Anton;
         line-height: 2em;
     }
+    #owl-demo{
+        margin: auto;
+        padding-top: 20px;
+        width: 40%;
+    }
+    .owl-theme .owl-controls .owl-buttons .owl-prev{
+        font-size: 3em;
+        left: -25%;
+        opacity: 1;
+        top: 40%;
+    }
+    .owl-theme .owl-controls .owl-buttons .owl-next{
+        font-size: 3em;
+        opacity: 1;
+        right: -25%;
+        top: 40%;
+    }
 }
 
 /*tablet styles*/
@@ -318,6 +316,23 @@ a{
     }
     #tagline{
         font: 180% Anton;
+    }
+    #owl-demo{
+        margin: auto;
+        padding-top: 20px;
+        width: 40%;
+    }
+    .owl-theme .owl-controls .owl-buttons .owl-prev{
+        font-size: 3em;
+        left: -45%;
+        opacity: 1;
+        top: 40%;
+    }
+    .owl-theme .owl-controls .owl-buttons .owl-next{
+        font-size: 3em;
+        opacity: 1;
+        right: -45%;
+        top: 40%;
     }
 }
 
@@ -336,5 +351,22 @@ a{
     }
     #tagline{
         font: 130% Anton;
+    }
+    #owl-demo{
+        margin: auto;
+        padding-top: 20px;
+        width: 50%;
+    }
+    .owl-theme .owl-controls .owl-buttons .owl-prev{
+        font-size: 2em;
+        left: -45%;
+        opacity: 1;
+        top: 40%;
+    }
+    .owl-theme .owl-controls .owl-buttons .owl-next{
+        font-size: 2em;
+        opacity: 1;
+        right: -45%;
+        top: 40%;
     }
 }
