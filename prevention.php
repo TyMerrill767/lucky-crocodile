@@ -26,7 +26,7 @@
 
         <section>
             <h2>Outside the Vehicle</h2>
-            <img src="images/car.png" alt="Car Image" class="resize">
+            <img src="images/suv_image.png" alt="Car Image" class="resize">
             <ul>
                 <li>Always bring your child with you when you exit the vehicle – no amount of time is safe to leave your child unattended in the vehicle, even for “just a minute”, and it is illegal to do so in some states</li>
                 <li>Be sure that you lock the vehicle’s doors and trunk after exiting with your child – even when parked and at home, a vehicle can endanger a child, as they can become trapped within it if left open</li>
