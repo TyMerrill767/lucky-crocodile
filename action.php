@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php $thisPage="Take Action"; ?>
 <html lang="en">
 <head>
 <title>D.O.N.T. -- Take Action</title>
