@@ -19,7 +19,7 @@
           singleItem: true,
           autoPlay: 7000,
           navigation: true,
-          navigationText: ["<i class='fa fa-arrow-left'></i>", "<i class='fa fa-arrow-right'></i>"],
+          navigationText: ["<i class='fa fa-arrow-circle-left'></i>", "<i class='fa fa-arrow-circle-right'></i>"],
           stopOnHover: true,
 
       });
