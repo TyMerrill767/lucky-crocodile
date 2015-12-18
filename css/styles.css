@@ -112,7 +112,31 @@ nav a{
 	-o-transition: all .5s ease 0s;
 	transition: all .5s ease 0s;
 }
-nav a:hover{
+#home-active{
+    background-position: 5px 10px;
+}
+#dangers-active{
+    background-position: -92px 15px;
+}
+#prev-active{
+    background-position: -196px 8px;
+}
+#action-active{
+    background-position: -301px 0;
+}
+#about-active{
+    background-position: -425px 0;
+}
+#resources-active{
+    background-position: -540px 8px;
+}
+nav a:hover,
+#home-active,
+#about-active,
+#action-active,
+#dangers-active,
+#prev-active,
+#resources-active{
     color: #f63;
 }
 #owl-demo .item img{
