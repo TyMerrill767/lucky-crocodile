@@ -29,6 +29,7 @@ header{
     background: #E8E8E8;
 }
 body{
+
     font-family: 'Droid Sans', Helvetica, sans-serif;
     margin: auto;
 }
@@ -152,11 +153,6 @@ main{
     max-width: 1400px;
     padding: .5em 5em 3em;
 }
-.profile{
-    background: white;
-    border: 1px solid purple;
-    border-radius: 1em;
-}
 h1{
     font-size: 3em;
 }
@@ -214,6 +210,10 @@ a{
 .resource_img{
     height: auto;
     width: 100%;
+}
+.profile{
+    background: #F0FFFF;
+    border: 1px solid #000;
 }
 /*Image Carousel Styling*/
 #owl-demo{
@@ -307,6 +307,20 @@ a{
         right: -25%;
         top: 40%;
     }
+    .profile{
+        height: 30em;
+        border-radius: 3em;
+        padding: 2em;
+    }
+    .profile h3{
+        font-size: 2em;
+    }
+    .cir_shape{
+        padding-bottom: 5em;
+    }
+    .cir_shape img{
+        width: 30%;
+    }
 }
 
 /*tablet styles*/
@@ -338,6 +352,14 @@ a{
         opacity: 1;
         right: -45%;
         top: 40%;
+    }
+    .profile{
+        border-radius: 3em;
+        height: 32em;
+        padding: 2em;
+    }
+    .cir_shape{
+        padding: 2em 0;
     }
 }
 
@@ -373,5 +395,12 @@ a{
         opacity: 1;
         right: -45%;
         top: 40%;
+    }
+    .cir_shape{
+        padding: 2em 0;
+    }
+    .profile{
+        border-radius: 3em;
+        padding: .5em;
     }
 }
