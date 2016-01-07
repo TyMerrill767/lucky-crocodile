@@ -23,10 +23,10 @@ Color Palette
 /* ------------ ‘HEADER ------------*/
 /*global styles*/
 html{
-    background: #FEE3B8;
+    background: #F0FFFF;
 }
 header{
-    background: #E8E8E8;
+    background: #E4D87B;
 }
 body{
 
@@ -39,7 +39,7 @@ resize{
 }
 /* header styling */
 nav{
-    background-color: #327F9B;
+    background-color: #DF2026;
     font-size: 1.5em;
     font-weight: 400;
     padding: .5em 0;
@@ -57,12 +57,12 @@ nav a{
     padding: 0 .5em;
 }
 .nav{
-    background-image: url(../images/navicons.png);
+    background-image: url(../images/navicons3.png);
     background-repeat: no-repeat;
     padding-top: 5em;
 }
 #tagline{
-    color: #8e1418;
+    color: #DF2026;
     margin: 0;
     padding-bottom: 50px;
     text-align: center;
