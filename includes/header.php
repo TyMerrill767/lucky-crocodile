@@ -1,5 +1,8 @@
-<a href="index.php"><img src="images/logo_only.png" alt="D.O.N.T. logo" id="logo"></a>
-<a href="index.php"><p id="tagline">Drivers Opposed to Neglecting Toddlers</p></a>
+<header role="banner">
+    <a href="index.php"><img src="images/logo_only.png" alt="D.O.N.T. logo" id="logo"></a>
+    <p id="tagline">Drivers Opposed to Neglecting Toddlers</p>
+</header>
+
 <nav role="navigation" id="menu">
     <ul>
         <li><a <?php if ($thisPage=="Home") echo " id=\"home-active\""; ?>href="index.php" class="nav home">Home</a></li>
