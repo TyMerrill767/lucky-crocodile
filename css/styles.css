@@ -230,7 +230,7 @@ a{
 
 #slide-area{
     width: 100%;
-    background: rgba(0, 0, 0, 0.5)/*#6B6B6B*/;
+    background: rgba(0, 0, 0, 0.5);
 }
 
 #owl-demo .item img{
@@ -257,7 +257,7 @@ a{
         display: block;
     }
     .slicknav_menu{
-        background-color: #078;
+        background-color: #327F9B;
     }
     .slicknav_menu li{
         font-size: 1.5em;
