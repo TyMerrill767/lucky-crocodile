@@ -19,18 +19,21 @@ Color Palette
 /* ------------ ‘RESET ------------*/
 @import url("normalize.css");
 @import url("slicknav.min.css");
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 /* ------------ ‘HEADER ------------*/
 /*global styles*/
 html{
-    background: #F0FFFF;
+    /*background: #F0FFFF;*/
+    background-color: #787878;
+    background-image: url(../images/asfalt-dark.png);
 }
 header{
-    background: #E4D87B;
+    background: #327F9B/*#E4D87B*/;
+    border-bottom: 5px solid #DF2026;
 }
 body{
-
-    font-family: 'Droid Sans', Helvetica, sans-serif;
+    font-family: Montserrat;
     margin: auto;
 }
 resize{
@@ -40,16 +43,24 @@ resize{
 /* header styling */
 nav{
     background-color: #DF2026;
-    font-size: 1.5em;
+    border-radius: 255px;
+    font-family: Anton;
+    font-size: 1.6em;
     font-weight: 400;
-    padding: .5em 0;
+    margin: auto;
+    margin-top: -80px;
+    min-width: 950px;
+    /*padding: .5em 0;*/
     text-align: center;
+    height: 100px;
+    width: 70%;
 }
 nav li{
     align-content: center;
     display: inline-block;
     list-style: none;
     margin: 0;
+    padding-top: 30px;
 }
 nav a{
     color: #fff;
@@ -62,13 +73,13 @@ nav a{
     padding-top: 5em;
 }
 #tagline{
-    color: #DF2026;
+    color: #fff;
     margin: 0;
-    padding-bottom: 50px;
+    padding-bottom: 2.5em;
     text-align: center;
 }
 .home{
-    background-position: 5px 60px;
+    background-position: 0px 60px;
 }
 .dangers{
     background-position: -92px 70px;
@@ -86,7 +97,7 @@ nav a{
     background-position: -540px 55px;
 }
 .home:hover{
-    background-position: 5px 10px;
+    background-position: 0px 10px;
 }
 .dangers:hover{
     background-position: -92px 15px;
@@ -114,7 +125,7 @@ nav a{
 	transition: all .5s ease 0s;
 }
 #home-active{
-    background-position: 5px 10px;
+    background-position: 0px 10px;
 }
 #dangers-active{
     background-position: -92px 15px;
@@ -145,6 +156,15 @@ nav a:hover,
     margin: auto;
     padding-top: 5px;
     max-width: 70%;
+}
+h1,h2{
+    color: #FCB118;
+    font-family: Anton;
+    letter-spacing: .1em;
+}
+.next-page-link{
+    color: #FCB118;
+    text-decoration: underline;
 }
 
 /* ------------ Main Content ------------*/
@@ -212,7 +232,8 @@ a{
     width: 100%;
 }
 .profile{
-    background: #F0FFFF;
+    background: #fff;
+    /*background: #F0FFFF;*/
     border: 1px solid #000;
 }
 /*Image Carousel Styling*/
