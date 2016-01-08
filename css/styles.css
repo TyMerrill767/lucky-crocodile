@@ -41,20 +41,6 @@ resize{
     width: 100%;
 }
 /* header styling */
-nav{
-    background-color: #DF2026;
-    border-radius: 255px;
-    font-family: Anton;
-    font-size: 1.6em;
-    font-weight: 400;
-    margin: auto;
-    margin-top: -80px;
-    min-width: 950px;
-    /*padding: .5em 0;*/
-    text-align: center;
-    height: 100px;
-    width: 70%;
-}
 nav li{
     align-content: center;
     display: inline-block;
@@ -341,6 +327,19 @@ a{
     }
     .cir_shape img{
         width: 30%;
+    }
+    nav{
+        background-color: #DF2026;
+        border-radius: 255px;
+        font-family: Anton;
+        font-size: 1.6em;
+        font-weight: 400;
+        margin: auto;
+        margin-top: -80px;
+        min-width: 950px;
+        text-align: center;
+        height: 100px;
+        width: 70%;
     }
 }
 
