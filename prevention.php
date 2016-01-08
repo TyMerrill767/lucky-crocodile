@@ -15,7 +15,7 @@
 
         <h4>Heat Stroke/Hypothermia:</h4>
         <p>Position your child&rsquo;s car seat on the passenger side to see your child easier.</p>
-        <p>Stage you car with cues to help remember your child:</p>
+        <p>Stage your car with cues to help remember your child:</p>
         <ul>
         <li>Keep a stuffed animal in the car seat at all times. When you buckle baby in, place it on the dash or in the passenger seat.</li>
         <li>Keep important items you will need in the backseat with baby.</li>
