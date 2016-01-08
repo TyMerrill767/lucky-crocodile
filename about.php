@@ -6,10 +6,7 @@
 <?php include('includes/head.php');?>
 </head>
 <body>
-   <header role="banner">
-        <?php include('includes/header.php');?>
-   </header>
-
+   <?php include('includes/header.php');?>
    <main role="main">
         <h1>About Us</h1>
 
