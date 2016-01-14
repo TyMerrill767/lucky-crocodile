@@ -26,11 +26,13 @@ Color Palette
 html{
     background-color: #787878;
     background-image: url(../images/asfalt-dark.png);
+    background-attachment: fixed;
 }
 header{
     background-color: #327F9B;
     background-image: url(../images/asfalt-dark.png);
     border-bottom: 5px solid #000;
+    background-attachment: fixed;
 }
 body{
     font-family: Montserrat;
@@ -49,12 +51,12 @@ nav li{
     padding-top: 30px;
 }
 nav a{
-    color: #000;
+    color: #fff;
     text-decoration: none;
-    padding: 0 .5em;
+    padding: 0 1em;
 }
 .nav{
-    background-image: url(../images/navicons3.png);
+    background-image: url(../images/navicons.png);
     background-repeat: no-repeat;
     padding-top: 5em;
 }
@@ -65,40 +67,41 @@ nav a{
     text-align: center;
 }
 .home{
-    background-position: 0px 60px;
+    background-position: 6px 50px;
+    padding-right: 2.2em;
 }
 .dangers{
-    background-position: -92px 70px;
+    background-position: 18px -182px;
 }
 .prev{
-    background-position: -196px 60px;
+    background-position: 32px -414px;
 }
 .action{
-    background-position: -301px 47px;
+    background-position: 37px -647px;
 }
 .about{
-    background-position: -425px 30px;
+    background-position: 20px -880px;
 }
 .resources{
-    background-position: -540px 55px;
+    background-position: 33px -1110px;
 }
 .home:hover{
-    background-position: 0px 10px;
+    background-position: 6px 10px;
 }
 .dangers:hover{
-    background-position: -92px 15px;
+    background-position: 18px -222px;
 }
 .prev:hover{
-    background-position: -196px 8px;
+    background-position: 32px -454px;
 }
 .action:hover{
-    background-position: -301px 0;
+    background-position: 37px -687px;
 }
 .about:hover{
-    background-position: -425px 0;
+    background-position: 20px -920px;
 }
 .resources:hover{
-    background-position: -540px 8px;
+    background-position: 33px -1150px;
 }
 .home:hover,
 .dangers:hover,
@@ -111,22 +114,22 @@ nav a{
 	transition: all .5s ease 0s;
 }
 #home-active{
-    background-position: 0px 10px;
+    background-position: 6px 10px;
 }
 #dangers-active{
-    background-position: -92px 15px;
+    background-position: 18px -222px;
 }
 #prev-active{
-    background-position: -196px 8px;
+    background-position: 32px -454px;
 }
 #action-active{
-    background-position: -301px 0;
+    background-position: 37px -686px;
 }
 #about-active{
-    background-position: -425px 0;
+    background-position: 20px -920px;
 }
 #resources-active{
-    background-position: -540px 8px;
+    background-position: 33px -1150px;
 }
 nav a:hover,
 #home-active,
@@ -135,13 +138,13 @@ nav a:hover,
 #dangers-active,
 #prev-active,
 #resources-active{
-    color: #fff;
+    color: #DF2026;
 }
 #logo{
     display: block;
     margin: auto;
-    padding-top: 5px;
-    max-width: 70%;
+    padding-top: 35px;
+    max-width: 40%;
 }
 h1,h2{
     color: #FCB118;
@@ -257,6 +260,7 @@ a{
     }
     .slicknav_menu{
         background-color: #327F9B;
+        background-image: url(../images/asfalt-dark.png);
     }
     .slicknav_menu li{
         font-size: 1.5em;
