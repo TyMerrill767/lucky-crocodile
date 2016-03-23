@@ -258,6 +258,10 @@ a {
 	border-radius: 5px;
 	box-shadow: 2px 2px 8px rgba(0, 0, 0, .5);
 	padding: .5em;
+	margin-bottom: 1em;
+	display: block;
+	float: left;
+	clear: both;
 }
 
 .action_btn:hover {
