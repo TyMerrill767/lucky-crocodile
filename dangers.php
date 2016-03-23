@@ -30,11 +30,11 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<p>Deaths of children age 3 or younger: 87%</p>
-							<p>Deaths of children age 1 and under: 54%</p>
+							<p>Deaths of children age 3 or younger: 87&#37;</p>
+							<p>Deaths of children age 1 and under: 54&#37;</p>
 							<p>Average number of child vehicular heat strokes (U.S. alone): 37</p>
-							<p>10 minutes = 80% increase in temperature</p>
-							<p>60&deg; outside can equal over 100&amp;deg; inside of a car</p>
+							<p>10 minutes = 80&#37; increase in temperature</p>
+							<p>60&deg; outside can equal over 100&deg; inside of a car</p>
 							<p>104&deg; : The temperature that the internal organs begin to shut down</p>
 							<p>107&deg; = DEATH</p>
 						</div>
@@ -58,7 +58,7 @@
 							<h2 id="choking">Choking</h2>
 							<img src="images/chokingDanger.png" alt="choking interior" class="resize float_right">
 							<h3>How it Happens:</h3>
-							<p>Small objects (pencils, loose change, paper clips, food items) get left in car only to have baby find them and stick them in his/her mouth.</p>
+							<p>Small objects &lpar;pencils, loose change, paper clips, food items&rpar; get left in car only to have baby find them and stick them in his/her mouth.</p>
 
 							<h3>Facts:</h3>
 							<p>4<sup>th</sup> leading cause of death in children under 5</p>
@@ -74,7 +74,7 @@
 								<li>Coughing</li>
 								<li>Gagging</li>
 								<li>Bluish lips or skin</li>
-								<li>High-pitched voice</li>
+								<li>High&dash;pitched voice</li>
 							</ul>
 						</div>
 					</div>
@@ -95,15 +95,15 @@
 								<li>Lotions/Hand sanitizer</li>
 								<li>Tobacco products</li>
 								<li>Adult beverages</li>
-								<li>Automotive products (De-icer, oil, flares, etc.)</li>
-								<li>Food items that have been sitting in a vehicle for extended periods (Mold/Bacteria can be fatal to a young child&rsquo;s weak immune system)</li>
+								<li>Automotive products &lpar;De&dash;icer, oil, flares, etc.&rpar;</li>
+								<li>Food items that have been sitting in a vehicle for extended periods &lpar;Mold/Bacteria can be fatal to a young child&rsquo;s weak immune system&rpar;</li>
 							</ul>
 							<p>Think that some of these sound outrageous or extreme? Remember, a toddler is apt to put ANYTHING in his/her mouth.</p>
 						</div>
 						<div class="symptoms">
 							<h3>Symptoms of Poisoning:</h3>
 							<ul>
-								<li>Behavior changes (restlessness, crankiness)</li>
+								<li>Behavior changes &lpar;restlessness, crankiness&rpar;</li>
 								<li>Diarrhea</li>
 								<li>Dizziness</li>
 								<li>Drowsiness</li>
@@ -112,7 +112,7 @@
 								<li>Loss of appetite</li>
 								<li>Minor skin or eye irritation</li>
 								<li>Nausea or upset stomach</li>
-								<li>Passing cough (cough that comes and goes)</li>
+								<li>Passing cough &lpar;cough that comes and goes&rpar;</li>
 								<li>Soreness or stiffness in the joints</li>
 								<li>Thirst</li>
 							</ul>
@@ -128,14 +128,14 @@
 							<img src="images/backoverDanger.png" alt="Backover interior" class="resize float_right">
 							<h3>How It Happens:</h3>
 							<p>Children love to play and hide around all kinds of different obstacles and to them a vehicle is no more unsafe than a tree in the front yard.</p>
-							<p>A front&dash;over or back&dash;over occurs when a driver doesn't see a child in front or behind and sets the vehicle in motion resulting in injury or death.</p>
+							<p>A front&dash;over or back&dash;over occurs when a driver doesn&rsquo;t see a child in front or behind and sets the vehicle in motion resulting in injury or death.</p>
 
 							<h3>Facts:</h3>
-							<p>Of all non-traffic fatapties involving children under 15 years old from 2006 to 2010 30% of those were from front-overs while 34% were from back-overs.</p>
-							<p>Front-overs and back-overs can happen in any vehicle because all vehicles have a bpndzone, an area around a vehicle that can&rsquo;t be seen from the driver&rsquo;s seat.</p>
-							<p>The predominant age of back-over victims is one year old.</p>
-							<p>Over 60% of back up incidents involved larger size vehicle such as a truck, van, or SUV.</p>
-							<p>Sadly in a pttle over 70% of these incidents, a close relative or parent are usually the ones behind the wheel.</p>
+							<p>Of all non-traffic fatapties involving children under 15 years old from 2006 to 2010 30&#37; of those were from front&dash;overs while 34&#37; were from back&dash;overs.</p>
+							<p>Front&dash;overs and back&dash;overs can happen in any vehicle because all vehicles have a bpndzone, an area around a vehicle that can&rsquo;t be seen from the driver&rsquo;s seat.</p>
+							<p>The predominant age of back&dash;over victims is one year old.</p>
+							<p>Over 60&#37; of back up incidents involved larger size vehicle such as a truck, van, or SUV.</p>
+							<p>Sadly in a pttle over 70&#37; of these incidents, a close relative or parent are usually the ones behind the wheel.</p>
 						</div>
 					</div>
 
@@ -159,13 +159,13 @@
 							<h2 id="in_motion">Vehicle Accidentally Set in Motion</h2>
 							<img src="images/motionDanger.png" alt="controls image" class="resize float_right">
 							<h3>How it Happens:</h3>
-							<p>Unattended children in a vehicle can free themselves from car seats, gaining access to controls. Re&dash;enacting a movie racecar or spaceship scene can put them at risk of endangering their or another's life.</p>
+							<p>Unattended children in a vehicle can free themselves from car seats, gaining access to controls. Re&dash;enacting a movie racecar or spaceship scene can put them at risk of endangering their or another&rsquo;s life.</p>
 
 							<h3>Facts:</h3>
 							<p>Window controls are easy to operate.</p>
 							<p>Gear&amp;shifts are usually easily moved levers.</p>
 							<p>A child doesn&rsquo;t have to be targeting a control to activate it. They may simply grab it or use it for support while moving about the vehicle.</p>
-							<p>Of all non-traffic fatalities involving children between 2006 and 2010 vehicle in motion made up 5% of all fatalities.</p>
+							<p>Of all non&dash;traffic fatalities involving children between 2006 and 2010 vehicle in motion made up 5&#37; of all fatalities.</p>
 						</div>
 					</div>
 
