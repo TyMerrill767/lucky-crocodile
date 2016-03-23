@@ -12,7 +12,7 @@
 
         <h1>Unattended Toddlers in Vehicles</h1>
 
-        <p class="home-page-content">Each year, an average of 37 children die due to vehicular heat stroke. Over 100 die due to back-overs and front-overs. Others die from the vehicle accidentally being set in motion, strangulation by power windows, choking on small objects, poisoning, and more. What makes these child deaths especially tragic is that each and every one of them was preventable</p>
+        <p class="home-page-content">Each year, an average of 37 children die due to vehicular heat stroke. Over 100 die due to back-overs and front-overs. Others die from the vehicle accidentally being set in motion, strangulation by power windows, choking on small objects, poisoning, and more. What makes these child deaths especially tragic is that each and every one of them was preventable.</p>
 
         <div id="slide-area">
             <div id="owl-demo" class="owl-carousel owl-theme">
@@ -31,7 +31,7 @@
 
         <p class="home-page-content">How can we avoid these tragedies? Read further to learn about the dangers and solutions to leaving a child alone in a vehicle and how you can take action to avoid repeating these unfortunate mistakes before they happen.</p>
 
-       <a href="dangers.php" class="next-page-link">Dangers of leaving your child in a vehicle &gt;&gt;</a>
+       <a href="dangers.php" class="action_btn">Dangers of leaving your child in a vehicle &gt;&gt;</a>
    </main>
 
    <footer>
