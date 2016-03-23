@@ -186,7 +186,7 @@
 						</div>
 					</div>
 
-					<a href="prevention.php" class="action_btn">How to prevent these dangers ></a>
+					<a href="prevention.php" class="action_btn">How to prevent these dangers &gt;</a>
 
 					<a href="#top" class="action_btn bktop">Back to Top</a>
 				</main>

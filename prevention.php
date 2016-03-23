@@ -42,44 +42,44 @@
 						<li>Keep your vehicle clean and free of loose items.</li>
 					</ul>
 
-					<h3 class="prev_front">Front-overs/Back-overs:</h3>
+					<h3 class="prev_front">Front&dash;overs/Back&dash;overs:</h3>
 					<ul>
-						<li>Average blindzone: 15-25 feet &lpar;shorter drivers have a greater blindzone&rpar;</li>
-						<li>Teach your children that any vehicle can move</li>
-						<li>Keep toys out of the driveway</li>
-						<li>Know where your children are before moving a vehicle</li>
+						<li>Average blindzone: 15&dash;25 feet &lpar;shorter drivers have a greater blindzone&rpar;.</li>
+						<li>Teach your children that any vehicle can move.</li>
+						<li>Keep toys out of the driveway.</li>
+						<li>Know where your children are before moving a vehicle.</li>
 					</ul>
 
 					<h3 class="prev_set">Vehicle accidentally set in motion:</h3>
 					<ul>
-						<li>Shut the vehicle off and lock it when you leave it</li>
-						<li>Keep your car locked when not in use</li>
-						<li>Keep keys out of reach of children</li>
+						<li>Shut the vehicle off and lock it when you leave it.</li>
+						<li>Keep your car locked when not in use.</li>
+						<li>Keep keys out of reach of children.</li>
 					</ul>
 
 					<h3 class="prev_window">Power Windows:</h3>
 					<ul>
-						<li>When children are riding, engage the child safety lock</li>
-						<li>Shut the vehicle off and lock it when you leave it</li>
-						<li>Teach children that power windows are dangerous</li>
+						<li>When children are riding, engage the child safety lock.</li>
+						<li>Shut the vehicle off and lock it when you leave it.</li>
+						<li>Teach children that power windows are dangerous.</li>
 					</ul>
 				</div>
 
 
 				<h2>Outside the Vehicle</h2>
 				<div class="main_info">
-					<p>Always bring your child with you when you exit the vehicle – no amount of time is safe to leave your child unattended in the vehicle, even for “just a minute”, and it is illegal to do so in some states</p>
-					<p>Be sure that you lock the vehicle’s doors and trunk after exiting with your child – even when parked and at home, a vehicle can endanger a child, as they can become trapped within it if left open</p>
-					<p>Instruct children that the vehicle is not a safe place to play</p>
+					<p>Always bring your child with you when you exit the vehicle &mdash; no amount of time is safe to leave your child unattended in the vehicle, even for &ldquo;just a minute&rdquo;, and it is illegal to do so in some states.</p>
+					<p>Be sure that you lock the vehicle&rsquo;s doors and trunk after exiting with your child &mdash; even when parked and at home, a vehicle can endanger a child, as they can become trapped within it if left open.</p>
+					<p>Instruct children that the vehicle is not a safe place to play.</p>
 				</div>
 
 				<h2>In General</h2>
 				<div class="main_info">
-					<p>Familiarize yourself with life-saving techniques such as the Heimlich Maneuver, child cardiopulmonary resuscitation (CPR), and other first-aid measures, and call 911 for emergencies.</p>
-					<p>Be sure your child's caretaker(s) are aware of the dangers and solutions, and always have a plan of action in case of emergency.</p>
-					<p>Be aware of your child's behavior and condition: if they are acting strange or confused, or if they are exhibiting nausea, dizziness, sudden cessation of sweating, or quick/slow pulse, they may be suffering heat stroke.</p>
+					<p>Familiarize yourself with life&dash;saving techniques such as the Heimlich Maneuver, child cardiopulmonary resuscitation &lpar;CPR&rpar;, and other first&dash;aid measures, and call 911 for emergencies.</p>
+					<p>Be sure your child&rsquo;s caretaker&lpar;s&rpar; are aware of the dangers and solutions, and always have a plan of action in case of emergency.</p>
+					<p>Be aware of your child&rsquo;s behavior and condition: if they are acting strange or confused, or if they are exhibiting nausea, dizziness, sudden cessation of sweating, or quick/slow pulse, they may be suffering heat stroke.</p>
 				</div>
-				<a href="action.php" class="action_btn">Find out how you can take action &gt;&gt;</a>
+				<a href="action.php" class="action_btn">Find out how you can take action &gt;</a>
 			</main>
 
 			<footer>

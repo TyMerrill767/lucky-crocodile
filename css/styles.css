@@ -340,19 +340,31 @@ a {
 /* -------------------------------- take action ---------------------------------*/
 
 .group_safety {
-	margin-bottom: 2em;
-	width: 90%;
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 3em;
+	width: 50%;
 }
 
 .action_columns {
-	-moz-column-width: 350px;
-	-webkit-column-width: 350px;
-	column-width: 350px;
-	-moz-column-gap: 2em;
-	-webkit-column-gap: 2em;
-	column-gap: 2em;
+	-moz-column-width: 400px;
+	-webkit-column-width: 400px;
+	column-width: 400px;
+	-moz-column-gap: 4em;
+	-webkit-column-gap: 4em;
+	column-gap: 4em;
+	padding: 0 5%;
+	text-align: justify;
 }
 
+.action_columns p {
+	line-height: 1.5em;
+	margin-bottom: 1em;
+}
+
+.action_columns p:first-child {
+	margin-top: 0;
+}
 
 /* -------------------------------- prevention ---------------------------------*/
 
