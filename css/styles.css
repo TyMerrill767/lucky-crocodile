@@ -305,7 +305,6 @@ a {
 	max-width: 80%;
 	margin: 0 auto;
 	padding: 0;
-	margin-left: 275px;
 }
 
 .intro {
@@ -533,9 +532,6 @@ a {
 		text-align: center;
 		width: 100%;
 	}
-	.dangers_nav {
-		display: none;
-	}
 	.js .slicknav_menu {
 		display: block;
 	}
@@ -672,6 +668,9 @@ a {
     .back-to-top img {
         width: 150%
     }
+    .dangers_main{
+        margin-left: 275px;
+    }
 }
 
 
@@ -721,6 +720,14 @@ a {
 	.brian {
 		text-align: left;
 	}
+    .dangers_nav{
+        font-size: 82%;
+        width: 17%;
+        float: right;
+    }
+    .dangers_main{
+        margin-left: 5px;
+    }
 }
 
 
