@@ -65,7 +65,6 @@
 					</ul>
 				</div>
 
-
 				<h2>Outside the Vehicle</h2>
 				<div class="main_info">
 					<p>Always bring your child with you when you exit the vehicle &mdash; no amount of time is safe to leave your child unattended in the vehicle, even for &ldquo;just a minute&rdquo;, and it is illegal to do so in some states.</p>
@@ -80,6 +79,9 @@
 					<p>Be aware of your child&rsquo;s behavior and condition: if they are acting strange or confused, or if they are exhibiting nausea, dizziness, sudden cessation of sweating, or quick/slow pulse, they may be suffering heat stroke.</p>
 				</div>
 				<a href="action.php" class="action_btn">Find out how you can take action &gt;</a>
+
+				<a href="#top" class="back-to-top">
+					<img src="images/back_to_top_icon.png"></a>
 			</main>
 
 			<?php include('includes/footer.php');?>

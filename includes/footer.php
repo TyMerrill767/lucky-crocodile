@@ -27,6 +27,7 @@
 	});
 </script>
 
+
 <footer role="contentinfo">
 	<p>&copy;
 		<?php

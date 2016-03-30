@@ -203,6 +203,7 @@ footer {
 /* ------------ Main Content ------------*/
 
 main {
+	position: relative;
 	margin: auto;
 	max-width: 1400px;
 	padding: .5em 5em 3em;
@@ -263,7 +264,6 @@ a {
 	display: inline;
 	height: auto;
 	width: 80%;
-	margin-bottom: 5em;
 }
 
 .action_btn {
@@ -302,8 +302,11 @@ a {
 /* -------------------------------- dangers ---------------------------------*/
 
 .dangers_main {
-	max-width: 75%;
+	max-width: 80%;
 	margin: 0 auto;
+	border: 1px solid green;
+	padding: 0;
+	margin-left: 275px;
 }
 
 .intro {
@@ -321,10 +324,19 @@ a {
 }
 
 .danger_facts {
-	border-radius: 50px;
 	clear: both;
 	line-height: 1.75em;
 	margin: 2em auto;
+	border: 1px solid red;
+}
+
+.danger_facts p {
+	width: 85%;
+	display: inline;
+}
+
+.danger_facts li {
+	max-width: 40%;
 }
 
 .dangers_nav li {
@@ -337,6 +349,10 @@ a {
 	margin: .1em 1.2em;
 	padding: .8em;
 	width: 70px;
+}
+
+.dangers_nav {
+	border: 1px solid red;
 }
 
 .dangers_nav a {
@@ -500,6 +516,18 @@ a {
 }
 
 
+/* -------------------------- back to top icon  ------------------------------*/
+
+.back-to-top {
+	margin: 0;
+	position: fixed;
+	bottom: 0;
+	z-index: 100;
+	margin-bottom: 3%;
+	right: 3%;
+}
+
+
 /* -------------------------------- Media Styles ---------------------------------*/
 
 
@@ -602,8 +630,6 @@ a {
 		width: 97%;
 	}
 	.main_right {
-		left: 16%;
-		margin: auto;
 		min-width: 750px;
 		position: relative;
 	}
@@ -739,6 +765,20 @@ a {
 		-moz-shape-outside: none;
 		-webkit-shape-outside: none;
 		shape-outside: none;
+	}
+	.dangers_main {
+		margin: 0 auto;
+		padding: 0;
+	}
+	.danger_facts ul {
+		width: 100%;
+		border: 1px solid blue;
+		padding: 0;
+	}
+	.danger_facts li {
+		width: 100%;
+		margin: 0;
+		padding: 0;
 	}
 	.dangers_p,
 	.dangers_p2 {
