@@ -3,7 +3,7 @@
 	<html lang="en">
 
 	<head>
-		<title>D.O.N.T. -- Dangers of Leaving Your Child Unattended in a Vehicle</title>
+		<title>D.O.N.T. &mdash; Dangers of Leaving Your Child Unattended in a Vehicle</title>
 		<?php include('includes/head.php');?>
 	</head>
 
@@ -82,9 +82,8 @@
 				<a href="action.php" class="action_btn">Find out how you can take action &gt;</a>
 			</main>
 
-			<footer>
-				<?php include('includes/footer.php');?>
-			</footer>
+			<?php include('includes/footer.php');?>
+
 	</body>
 
 	</html>

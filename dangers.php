@@ -3,7 +3,7 @@
 	<html lang="en">
 
 	<head>
-		<title>D.O.N.T. -- Dangers of Leaving Your Child Unattended in a Vehicle</title>
+		<title>D.O.N.T. &mdash; Dangers of Leaving Your Child Unattended in a Vehicle</title>
 		<?php include('includes/head.php');?>
 	</head>
 
@@ -14,11 +14,13 @@
 
 				<main role="main" class="main_right dangers_main">
 					<h1>Dangers</h1>
-					<p class="dangers_p">There are many things in any vehicle that can endanger a child, not all of them obvious. Toddlers are naturally playful and curious. They love to explore all of the different crevices, containers, and controls inside of your vehicle.
-						<br>
-						<br> Listed below are the many dangers a child can encounter if left in or near a vehicle unattended.</p>
+					<div class="intro">
+						<p class="dangers_p">There are many things in any vehicle that can endanger a child, not all of them obvious. Toddlers are naturally playful and curious. They love to explore all of the different crevices, containers, and controls inside of your vehicle.
+							<br>
+							<br>Listed below are the many dangers a child can encounter if left in or near a vehicle unattended.</p>
+						<img src="images/interior3.png" alt="Car Interior 3" class="resize float_img">
 
-					<img src="images/interior3.png" alt="Car Interior 3" class="resize float_img">
+					</div>
 
 					<div class="danger_facts">
 						<div class="how">
@@ -59,7 +61,8 @@
 							<img src="images/chokingDanger.png" alt="choking interior" class="resize float_right">
 							<h3>How it Happens:</h3>
 							<p>Small objects &lpar;pencils, loose change, paper clips, food items&rpar; get left in car only to have baby find them and stick them in his/her mouth.</p>
-
+						</div>
+						<div class="facts">
 							<h3>Facts:</h3>
 							<p>4<sup>th</sup> leading cause of death in children under 5</p>
 							<p>ANY small item can be a risk</p>
@@ -81,13 +84,15 @@
 
 					<img src="images/interior1.png" alt="Car Interior 1" class="resize float_imgs">
 
+
 					<div class="danger_facts">
 						<div class="how">
 							<h2 id="poison">Poison</h2>
 							<img src="images/poisonDanger.png" alt="poison interior" class="resize float_right">
 							<h3>How it Happens:</h3>
 							<p>A child left alone in your car after a long day of shopping has access to many items you may not think are dangerous.</p>
-
+						</div>
+						<div class="facts">
 							<h3>Facts:</h3>
 							<p>Grocery bags can be filled with items that can make your child sick and can even be toxic, such as:</p>
 							<ul>
@@ -129,7 +134,8 @@
 							<h3>How It Happens:</h3>
 							<p>Children love to play and hide around all kinds of different obstacles and to them a vehicle is no more unsafe than a tree in the front yard.</p>
 							<p>A front&dash;over or back&dash;over occurs when a driver doesn&rsquo;t see a child in front or behind and sets the vehicle in motion resulting in injury or death.</p>
-
+						</div>
+						<div class="facts">
 							<h3>Facts:</h3>
 							<p>Of all non-traffic fatapties involving children under 15 years old from 2006 to 2010 30&#37; of those were from front&dash;overs while 34&#37; were from back&dash;overs.</p>
 							<p>Front&dash;overs and back&dash;overs can happen in any vehicle because all vehicles have a bpndzone, an area around a vehicle that can&rsquo;t be seen from the driver&rsquo;s seat.</p>
@@ -146,7 +152,8 @@
 							<h3>How it Happens:</h3>
 							<p>Children left alone in a vehicle are vulnerable to being taken.</p>
 							<p>Unattended children have access to door locks. Easily influenced, a stranger can coerce them into unlocking the vehicle.</p>
-
+						</div>
+						<div class="facts_right">
 							<h3>Facts:</h3>
 							<p>A stranger doesn&rsquo;t need to forcefully take the child. Persuading them to exit the vehicle with temptations is just as much a threat as breaking a window and taking the child.</p>
 							<p>It can only take a few seconds for your child to be taken.</p>
@@ -160,7 +167,8 @@
 							<img src="images/motionDanger.png" alt="controls image" class="resize float_right">
 							<h3>How it Happens:</h3>
 							<p>Unattended children in a vehicle can free themselves from car seats, gaining access to controls. Re&dash;enacting a movie racecar or spaceship scene can put them at risk of endangering their or another&rsquo;s life.</p>
-
+						</div>
+						<div class="facts">
 							<h3>Facts:</h3>
 							<p>Window controls are easy to operate.</p>
 							<p>Gear&amp;shifts are usually easily moved levers.</p>
@@ -175,14 +183,13 @@
 							<img src="images/windowDanger.png" alt="window image" class="resize float_left">
 							<h3>How it Happens:</h3>
 							<p>Curious and playful children want to touch everything and operate moving pieces. Left unattended, they can activate many of the vehicle&rsquo;s automatic features. Innocent playtime can quickly become harmful or even deadly.</p>
-
+						</div>
+						<div class="facts_right">
 							<h3>Facts:</h3>
-							<ul>
-								<li>Power windows can easily break small bones and cause strangulation.</li>
-								<li>Thousands of children have been harmed or killed by power windows.</li>
-								<li>The amount of upward force a power window exerts up is between 30 and 80 pounds.</li>
-								<li>It only takes 22 pounds of force to injure and potentially suffocate an infant.</li>
-							</ul>
+							<p>Power windows can easily break small bones and cause strangulation.</p>
+							<p>Thousands of children have been harmed or killed by power windows.</p>
+							<p>The amount of upward force a power window exerts up is between 30 and 80 pounds.</p>
+							<p>It only takes 22 pounds of force to injure and potentially suffocate an infant.</p>
 						</div>
 					</div>
 
@@ -191,9 +198,9 @@
 					<a href="#top" class="action_btn bktop">Back to Top</a>
 				</main>
 
-				<footer>
-					<?php include('includes/footer.php');?>
-				</footer>
+				<?php include('includes/footer.php');?>
+
+
 	</body>
 
 	</html>

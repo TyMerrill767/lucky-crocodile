@@ -3,7 +3,7 @@
 	<html lang="en">
 
 	<head>
-		<title>D.O.N.T. -- Take Action</title>
+		<title>D.O.N.T. &mdash; Take Action</title>
 		<?php include('includes/head.php');?>
 	</head>
 
@@ -25,9 +25,8 @@
 
 			</main>
 
-			<footer>
-				<?php include('includes/footer.php');?>
-			</footer>
+			<?php include('includes/footer.php');?>
+
 	</body>
 
 	</html>

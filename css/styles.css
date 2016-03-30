@@ -189,6 +189,16 @@ nav a:hover,
 	max-width: 40%;
 }
 
+footer {
+	display: block;
+	clear: both;
+	padding: 1em 2em 1em 2em;
+	margin-top: 2em;
+	background: #327F9B;
+	background-image: url(../images/asfalt-dark.png);
+	border-top: 5px solid black;
+}
+
 
 /* ------------ Main Content ------------*/
 
@@ -210,6 +220,7 @@ h2 {
 	letter-spacing: .1em;
 	padding: .5em 1em;
 	margin-bottom: 2em;
+	width: 90%;
 }
 
 h3 {
@@ -249,8 +260,10 @@ a {
 }
 
 .resize {
+	display: inline;
 	height: auto;
 	width: 80%;
+	margin-bottom: 5em;
 }
 
 .action_btn {
@@ -273,8 +286,39 @@ a {
 	width: 100%;
 }
 
+.cir_shape {
+	font-size: 1.15em;
+	width: 100%;
+}
+
+.cir_shape img {
+	margin: 1em;
+	-webkit-shape-outside: circle();
+	shape-outside: circle();
+	width: 40%;
+}
+
 
 /* -------------------------------- dangers ---------------------------------*/
+
+.dangers_main {
+	max-width: 75%;
+	margin: 0 auto;
+}
+
+.intro {
+	width: 90%;
+	margin: 3% auto;
+	padding-right: 5%;
+}
+
+.dangers_p {
+	display: inline-block;
+	float: left;
+	width: 40%;
+	font-size: 1.75em;
+	padding-right: 2em;
+}
 
 .danger_facts {
 	border-radius: 50px;
@@ -366,6 +410,7 @@ a {
 	margin-top: 0;
 }
 
+
 /* -------------------------------- prevention ---------------------------------*/
 
 .prev_main h3 {
@@ -400,28 +445,16 @@ a {
 
 /* -------------------------------- about us ---------------------------------*/
 
-.cir_shape {
-	clear: both;
-	font-size: 1.15em;
-	width: 100%;
-}
-
-.cir_shape img {
-	margin: 2em 1.5em 2em 1em;
-	-webkit-shape-outside: circle();
-	shape-outside: circle();
-	width: 30%;
-}
-
-.cir_shape h3 {
-	color: #f63;
+.aboutH3 {
+	color: #fcb118;
 	font-weight: 400;
-	padding-top: 2.5em;
-	margin-bottom: 0;
+	padding-top: 3em;
+	margin-bottom: 1em;
 }
 
 .cir_shape p {
 	margin-top: .25em;
+	max-width: 85%;
 }
 
 .about_image {
@@ -433,6 +466,10 @@ a {
 .bpa_info {
 	clear: both;
 	padding-top: 2em;
+}
+
+.brian {
+	text-align: right;
 }
 
 
@@ -449,6 +486,17 @@ a {
 
 .posters ul {
 	font-size: 1.25em;
+}
+
+.shop-section {
+	max-width: 75%;
+	margin: 0 auto;
+}
+
+.shop-section h2 {
+	width: 100%;
+	margin: 0;
+	padding: 1em 0 1em 0;
 }
 
 
@@ -557,23 +605,17 @@ a {
 		left: 16%;
 		margin: auto;
 		min-width: 750px;
-		position: absolute;
+		position: relative;
 	}
 	.dangers_nav {
 		left: 1%;
 		padding-top: 2em;
 		position: absolute;
 	}
-	.dangers_p {
-		font-size: 1.5em;
-		line-height: 1.6em;
-		padding: 0 4em 0 0;
-		float: left;
-		width: 30%;
-	}
 	.float_img {
 		width: 45%;
 		border-radius: 25px;
+		float: left;
 	}
 	.float_imgs {
 		width: 75%;
@@ -589,19 +631,17 @@ a {
 		width: 90%;
 	}
 	.facts {
-		clear: both;
+		padding-top: 2em;
 	}
 	.float_left {
 		float: left;
-		margin-right: 2.5em;
 		width: 35%;
-		padding: 2em;
+		padding-right: 2.5em;
 	}
 	.float_right {
 		float: right;
 		width: 35%;
-		margin-left: 2.5em;
-		padding: 2em;
+		padding-left: 2.5em;
 	}
 	.main_info {
 		margin: 0 3em;
@@ -642,6 +682,21 @@ a {
 		opacity: 1;
 		right: -45%;
 		top: 40%;
+	}
+	.dangers_p,
+	.dangers_p2 {
+		font-size: 1.5em;
+		width: 100%;
+		margin: 0;
+		padding: 1em 0;
+	}
+	.intro {
+		max-width: 100%;
+		margin: 3%;
+		padding-right: 5%;
+	}
+	.brian {
+		text-align: left;
 	}
 }
 
@@ -684,5 +739,20 @@ a {
 		-moz-shape-outside: none;
 		-webkit-shape-outside: none;
 		shape-outside: none;
+	}
+	.dangers_p,
+	.dangers_p2 {
+		font-size: 1.25em;
+		width: 100%;
+		margin: 0;
+		padding: 1em 0;
+	}
+	.intro {
+		max-width: 100%;
+		margin: 3%;
+		padding-right: 5%;
+	}
+	.brian {
+		text-align: left;
 	}
 }
