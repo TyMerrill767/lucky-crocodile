@@ -18,7 +18,7 @@
 						<p class="dangers_p">There are many things in any vehicle that can endanger a child, not all of them obvious. Toddlers are naturally playful and curious. They love to explore all of the different crevices, containers, and controls inside of your vehicle.
 							<br>
 							<br>Listed below are the many dangers a child can encounter if left in or near a vehicle unattended.</p>
-						<a href="images/interior3large.png"><img src="images/interior3.png" alt="Car Interior 3" class="resize float_img"></a>
+						<a href="images/interior3large.png" target="_self"><img src="images/interior3.png" alt="Car Interior 3" class="resize float_img"></a>
 
 					</div>
 
@@ -82,7 +82,7 @@
 						</div>
 					</div>
 
-					<a href="images/interior1large.png"><img src="images/interior1.png" alt="Car Interior 1" class="resize float_imgs"></a>
+					<a href="images/interior1large.png" target="_self"><img src="images/interior1.png" alt="Car Interior 1" class="resize float_imgs"></a>
 
 
 					<div class="danger_facts">
@@ -125,7 +125,7 @@
 						</div>
 					</div>
 
-					<a href="images/interior2large.png"><img src="images/interior2.png" alt="Car Interior 2" class="resize float_imgs"></a>
+					<a href="images/interior2large.png" target="_self"><img src="images/interior2.png" alt="Car Interior 2" class="resize float_imgs"></a>
 
 					<div class="danger_facts">
 						<div class="how">
