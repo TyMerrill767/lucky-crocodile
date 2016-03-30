@@ -304,7 +304,6 @@ a {
 .dangers_main {
 	max-width: 80%;
 	margin: 0 auto;
-	border: 1px solid green;
 	padding: 0;
 	margin-left: 275px;
 }
@@ -327,7 +326,6 @@ a {
 	clear: both;
 	line-height: 1.75em;
 	margin: 2em auto;
-	border: 1px solid red;
 }
 
 .danger_facts p {
@@ -335,9 +333,7 @@ a {
 	display: inline;
 }
 
-.danger_facts li {
-	max-width: 40%;
-}
+
 
 .dangers_nav li {
 	background-image: url(../images/PSAsprites_.png);
@@ -349,10 +345,6 @@ a {
 	margin: .1em 1.2em;
 	padding: .8em;
 	width: 70px;
-}
-
-.dangers_nav {
-	border: 1px solid red;
 }
 
 .dangers_nav a {
@@ -519,7 +511,6 @@ a {
 /* -------------------------- back to top icon  ------------------------------*/
 
 .back-to-top {
-	margin: 0;
 	position: fixed;
 	bottom: 0;
 	z-index: 100;
@@ -675,6 +666,12 @@ a {
 	.about_team {
 		padding: 0 5%;
 	}
+    .back-to-top {
+        width: 5%;
+    }
+    .back-to-top img {
+        width: 150%
+    }
 }
 
 
@@ -769,10 +766,10 @@ a {
 	.dangers_main {
 		margin: 0 auto;
 		padding: 0;
+        width: 75%
 	}
 	.danger_facts ul {
 		width: 100%;
-		border: 1px solid blue;
 		padding: 0;
 	}
 	.danger_facts li {
@@ -795,4 +792,10 @@ a {
 	.brian {
 		text-align: left;
 	}
+    .back-to-top {
+        width: 10%;
+    }
+    .back-to-top img{
+        width: 50px;
+    }
 }
