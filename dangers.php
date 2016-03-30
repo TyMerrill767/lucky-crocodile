@@ -18,7 +18,7 @@
 						<p class="dangers_p">There are many things in any vehicle that can endanger a child, not all of them obvious. Toddlers are naturally playful and curious. They love to explore all of the different crevices, containers, and controls inside of your vehicle.
 							<br>
 							<br>Listed below are the many dangers a child can encounter if left in or near a vehicle unattended.</p>
-						<img src="images/interior3.png" alt="Car Interior 3" class="resize float_img">
+						<a href="images/interior3large.png"><img src="images/interior3.png" alt="Car Interior 3" class="resize float_img"></a>
 
 					</div>
 
@@ -34,7 +34,7 @@
 							<h3>Facts:</h3>
 							<p>Deaths of children age 3 or younger: 87&#37;</p>
 							<p>Deaths of children age 1 and under: 54&#37;</p>
-							<p>Average number of child vehicular heat strokes (U.S. alone): 37</p>
+							<p>Average number of child vehicular heat strokes &lpar;U.S. alone&rpar;: 37</p>
 							<p>10 minutes = 80&#37; increase in temperature</p>
 							<p>60&deg; outside can equal over 100&deg; inside of a car</p>
 							<p>104&deg; : The temperature that the internal organs begin to shut down</p>
@@ -73,7 +73,7 @@
 						<div class="symptoms">
 							<h3>Symptoms of Choking:</h3>
 							<ul>
-								<li>Struggling to breathe (gasping)</li>
+								<li>Struggling to breathe &lpar;gasping&rpar;</li>
 								<li>Coughing</li>
 								<li>Gagging</li>
 								<li>Bluish lips or skin</li>
@@ -82,7 +82,7 @@
 						</div>
 					</div>
 
-					<img src="images/interior1.png" alt="Car Interior 1" class="resize float_imgs">
+					<a href="images/interior1large.png"><img src="images/interior1.png" alt="Car Interior 1" class="resize float_imgs"></a>
 
 
 					<div class="danger_facts">
@@ -125,7 +125,7 @@
 						</div>
 					</div>
 
-					<img src="images/interior2.png" alt="Car Interior 2" class="resize float_imgs">
+					<a href="images/interior2large.png"><img src="images/interior2.png" alt="Car Interior 2" class="resize float_imgs"></a>
 
 					<div class="danger_facts">
 						<div class="how">
@@ -137,11 +137,8 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<p>Of all non-traffic fatapties involving children under 15 years old from 2006 to 2010 30&#37; of those were from front&dash;overs while 34&#37; were from back&dash;overs.</p>
-							<p>Front&dash;overs and back&dash;overs can happen in any vehicle because all vehicles have a bpndzone, an area around a vehicle that can&rsquo;t be seen from the driver&rsquo;s seat.</p>
-							<p>The predominant age of back&dash;over victims is one year old.</p>
-							<p>Over 60&#37; of back up incidents involved larger size vehicle such as a truck, van, or SUV.</p>
-							<p>Sadly in a pttle over 70&#37; of these incidents, a close relative or parent are usually the ones behind the wheel.</p>
+							<p>Of all non&dash;traffic fatalities involving children under 15 years old from 2006 to 2010 30&#37; of those were from front&dash;overs while 34&#37; were from back&dash;overs.</p>
+							<p>Front&dash;overs and back&dash;overs can happen in any vehicle because all vehicles have a blindzone, an area around a vehicle that can&rsquo;t be seen from the driver&rsquo;s seat. The predominant age of back&dash;over victims is one year old. Over 60&#37; of incidents involved larger size vehicle such as a truck, van, or SUV. Sadly in a little over 70&#37; of these incidents, a close relative or parent are usually the ones behind the wheel.</p>
 						</div>
 					</div>
 
@@ -155,9 +152,7 @@
 						</div>
 						<div class="facts_right">
 							<h3>Facts:</h3>
-							<p>A stranger doesn&rsquo;t need to forcefully take the child. Persuading them to exit the vehicle with temptations is just as much a threat as breaking a window and taking the child.</p>
-							<p>It can only take a few seconds for your child to be taken.</p>
-							<p>Additionally, a child can be unintentionally abducted should a stranger attempt to steal your vehicle.</p>
+							<p>A stranger doesn&rsquo;t need to forcefully take the child. Persuading them to exit the vehicle with temptations is just as much a threat as breaking a window and taking the child. It can only take a few seconds for your child to be taken. Additionally, a child can be unintentionally abducted should a stranger attempt to steal your vehicle.</p>
 						</div>
 					</div>
 
@@ -170,10 +165,7 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<p>Window controls are easy to operate.</p>
-							<p>Gear&amp;shifts are usually easily moved levers.</p>
-							<p>A child doesn&rsquo;t have to be targeting a control to activate it. They may simply grab it or use it for support while moving about the vehicle.</p>
-							<p>Of all non&dash;traffic fatalities involving children between 2006 and 2010 vehicle in motion made up 5&#37; of all fatalities.</p>
+							<p>Window controls are easy to operate. Shifters are easily moved levers. A child doesn&rsquo;t have to be targeting a control to activate it. They may simply grab it or use it for support while moving about the vehicle. Of all non&dash;traffic fatalities involving children between 2006 and 2010 vehicle in motion made up 5&#37; of all fatalities.</p>
 						</div>
 					</div>
 
@@ -186,10 +178,7 @@
 						</div>
 						<div class="facts_right">
 							<h3>Facts:</h3>
-							<p>Power windows can easily break small bones and cause strangulation.</p>
-							<p>Thousands of children have been harmed or killed by power windows.</p>
-							<p>The amount of upward force a power window exerts up is between 30 and 80 pounds.</p>
-							<p>It only takes 22 pounds of force to injure and potentially suffocate an infant.</p>
+							<p>Power windows can easily break small bones and cause strangulation. Thousands of children have been harmed or killed by power windows. The amount of upward force a power window exerts up is between 30 and 80 pounds. It only takes 22 pounds of force to injure and potentially suffocate an infant.</p>
 						</div>
 					</div>
 
