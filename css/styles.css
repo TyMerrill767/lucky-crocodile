@@ -192,7 +192,9 @@ nav a:hover,
 footer {
 	display: block;
 	clear: both;
-	padding: 1em 2em 1em 2em;
+    font-size: .75em;
+    line-height: .5em;
+	padding: 2em 0 1em 2em;
 	margin-top: 2em;
 	background: #327F9B;
 	background-image: url(../images/asfalt-dark.png);
@@ -394,7 +396,7 @@ a {
 	display: block;
 	margin: 0 auto;
 	padding-bottom: 3em;
-	width: 50%;
+	width: 40%;
 }
 
 .action_columns {
@@ -442,7 +444,7 @@ a {
 }
 
 .prev_set {
-	background-position: 0 -525px;
+	background-position: 0 -265px;
 }
 
 .prev_window {
@@ -501,9 +503,9 @@ a {
 }
 
 .shop-section h2 {
-	width: 100%;
+	width: 98%;
 	margin: 0;
-	padding: 1em 0 1em 0;
+	padding: 1em 0 1em 2%;
 }
 
 
@@ -770,6 +772,9 @@ a {
 		-webkit-shape-outside: none;
 		shape-outside: none;
 	}
+    .dangers_nav {
+        display: none;
+    }
 	.dangers_main {
 		margin: 0 auto;
 		padding: 0;
