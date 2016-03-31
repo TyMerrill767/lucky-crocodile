@@ -78,7 +78,7 @@
 					<p>Be sure your child&rsquo;s caretaker&lpar;s&rpar; are aware of the dangers and solutions, and always have a plan of action in case of emergency.</p>
 					<p>Be aware of your child&rsquo;s behavior and condition: if they are acting strange or confused, or if they are exhibiting nausea, dizziness, sudden cessation of sweating, or quick/slow pulse, they may be suffering heat stroke.</p>
 				</div>
-				<a href="action.php" class="action_btn">Find out how you can take action &gt;</a>
+				<a href="action.php" class="action_btn">Find out how you can take action &gt;&gt;</a>
 
 				<a href="#top" class="back-to-top">
 					<img src="images/back_to_top_icon.png"></a>

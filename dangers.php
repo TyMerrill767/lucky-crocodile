@@ -203,7 +203,7 @@
 						</div>
 					</div>
 					<button>
-						<a href="prevention.php" class="action_btn">How to prevent these dangers &gt;</a>
+						<a href="prevention.php" class="action_btn">How to prevent these dangers &gt;&gt;</a>
 					</button>
 					<button>
 						<a href="#top" class="back-to-top">
