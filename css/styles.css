@@ -192,6 +192,8 @@ nav a:hover,
 footer {
 	display: block;
 	clear: both;
+    color: white;
+    text-align: center;
     font-size: .75em;
     line-height: .5em;
 	padding: 2em 0 1em 2em;
@@ -247,10 +249,7 @@ a {
 	padding-top: 20px;
 }
 
-#slide-area {
-	width: 100%;
-	background: rgba(0, 0, 0, 0.5);
-}
+
 
 .owl-theme .owl-controls .owl-buttons div {
 	position: absolute;
@@ -592,7 +591,7 @@ a {
 	#owl-demo {
 		margin: auto;
 		padding-top: 20px;
-		width: 40%;
+		width: 100%;
 	}
 	.owl-theme .owl-controls .owl-buttons .owl-prev {
 		font-size: 3em;
