@@ -15,11 +15,11 @@
 				<main role="main" class="main_right dangers_main">
 					<h1>Dangers</h1>
 					<div class="intro">
-						<p class="dangers_p">There are many things in any vehicle that can endanger a child, not all of them obvious. Toddlers are naturally playful and curious. They love to explore all of the different crevices, containers, and controls inside of your vehicle.
-							<br>
-							<br>Listed below are the many dangers a child can encounter if left in or near a vehicle unattended.</p>
-						<a href="images/interior3large.png" target="_self"><img src="images/interior3.png" alt="Car Interior 3" class="resize float_img"></a>
+						<p>There are many things in any vehicle that can endanger a child, not all of them obvious. Toddlers are naturally playful and curious. They love to explore all of the different crevices, containers, and controls inside of your vehicle.</p>
 
+
+						<a href="images/car_trans.png" target="_self"><img src="images/car_trans.png" alt="car dangers image" class="car_diagram"></a>
+						<p>Listed below are the many dangers a child can encounter if left in or near a vehicle unattended.</p>
 					</div>
 
 					<div class="danger_facts">
@@ -32,13 +32,13 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<p>Deaths of children age 3 or younger: 87&#37;</p>
-							<p>Deaths of children age 1 and under: 54&#37;</p>
-							<p>Average number of child vehicular heat strokes &lpar;U.S. alone&rpar;: 37</p>
-							<p>10 minutes = 80&#37; increase in temperature</p>
-							<p>60&deg; outside can equal over 100&deg; inside of a car</p>
-							<p>104&deg; : The temperature that the internal organs begin to shut down</p>
-							<p>107&deg; = DEATH</p>
+							<li>Deaths of children age 3 or younger: 87&#37;</li>
+							<li>Deaths of children age 1 and under: 54&#37;</li>
+							<li>Average number of child vehicular heat strokes &lpar;U.S. alone&rpar;: 37</li>
+							<li>10 minutes = 80&#37; increase in temperature</li>
+							<li>60&deg; outside can equal over 100&deg; inside of a car</li>
+							<li>104&deg; : The temperature that the internal organs begin to shut down</li>
+							<li>107&deg; = DEATH</li>
 						</div>
 						<div class="symptoms">
 							<h3>Symptoms of Heat Stroke:</h3>
@@ -64,11 +64,11 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<p>4<sup>th</sup> leading cause of death in children under 5</p>
-							<p>ANY small item can be a risk</p>
-							<p>Most common: food</p>
-							<p>1 child chokes on food every 5 days</p>
-							<p>10,000: Number of children taken to the ER each year for choking</p>
+							<li>4<sup>th</sup> leading cause of death in children under 5</li>
+							<li>ANY small item can be a risk</li>
+							<li>Most common: food</li>
+							<li>1 child chokes on food every 5 days</li>
+							<li>10,000: Number of children taken to the ER each year for choking</li>
 						</div>
 						<div class="symptoms">
 							<h3>Symptoms of Choking:</h3>
@@ -127,6 +127,7 @@
 
 					<a href="images/interior2large.png" target="_self"><img src="images/interior2.png" alt="Car Interior 2" class="resize float_imgs"></a>
 
+
 					<div class="danger_facts">
 						<div class="how">
 							<h2 id="front_back">Front&dash;overs/Back&dash;overs</h2>
@@ -137,8 +138,14 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<p>Of all non&dash;traffic fatalities involving children under 15 years old from 2006 to 2010 30&#37; of those were from front&dash;overs while 34&#37; were from back&dash;overs.</p>
-							<p>Front&dash;overs and back&dash;overs can happen in any vehicle because all vehicles have a blindzone, an area around a vehicle that can&rsquo;t be seen from the driver&rsquo;s seat. The predominant age of back&dash;over victims is one year old. Over 60&#37; of incidents involved larger size vehicle such as a truck, van, or SUV. Sadly in a little over 70&#37; of these incidents, a close relative or parent are usually the ones behind the wheel.</p>
+							<ul>
+								<li>Of all non&dash;traffic fatalities involving children under 15 years old from 2006 to 2010</li>
+								<li>30&#37; of those were from front&dash;overs while 34&#37; were from back&dash;overs.</li>
+								<li>Front&dash;overs and back&dash;overs can happen in any vehicle because all vehicles have a blindzone, an area around a vehicle that can&rsquo;t be seen from the driver&rsquo;s seat.</li>
+								<li>The predominant age of back&dash;over victims is one year old.</li>
+								<li>Over 60&#37; of incidents involved larger size vehicle such as a truck, van, or SUV.</li>
+								<li>Sadly in a little over 70&#37; of these incidents, a close relative or parent are usually the ones behind the wheel.</li>
+							</ul>
 						</div>
 					</div>
 
@@ -152,7 +159,11 @@
 						</div>
 						<div class="facts_right">
 							<h3>Facts:</h3>
-							<p>A stranger doesn&rsquo;t need to forcefully take the child. Persuading them to exit the vehicle with temptations is just as much a threat as breaking a window and taking the child. It can only take a few seconds for your child to be taken. Additionally, a child can be unintentionally abducted should a stranger attempt to steal your vehicle.</p>
+							<ul>
+								<li>A stranger doesn&rsquo;t need to forcefully take the child. Persuading them to exit the vehicle with temptations is just as much a threat as breaking a window and taking the child.</li>
+								<li>It can only take a few seconds for your child to be taken.</li>
+								<li>Additionally, a child can be unintentionally abducted should a stranger attempt to steal your vehicle.</li>
+							</ul>
 						</div>
 					</div>
 
@@ -165,7 +176,12 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<p>Window controls are easy to operate. Shifters are easily moved levers. A child doesn&rsquo;t have to be targeting a control to activate it. They may simply grab it or use it for support while moving about the vehicle. Of all non&dash;traffic fatalities involving children between 2006 and 2010 vehicle in motion made up 5&#37; of all fatalities.</p>
+							<ul>
+								<li>Window controls are easy to operate.</li>
+								<li>Shifters are easily moved levers.</li>
+								<li>A child doesn&rsquo;t have to be targeting a control to activate it. They may simply grab it or use it for support while moving about the vehicle.</li>
+								<li>Of all non&dash;traffic fatalities involving children between 2006 and 2010 vehicles accidentally set in motion made up 5&#37; of all fatalities.</li>
+							</ul>
 						</div>
 					</div>
 
@@ -178,14 +194,21 @@
 						</div>
 						<div class="facts_right">
 							<h3>Facts:</h3>
-							<p>Power windows can easily break small bones and cause strangulation. Thousands of children have been harmed or killed by power windows. The amount of upward force a power window exerts up is between 30 and 80 pounds. It only takes 22 pounds of force to injure and potentially suffocate an infant.</p>
+							<ul>
+								<li>Power windows can easily break small bones and cause strangulation.</li>
+								<li>Thousands of children have been harmed or killed by power windows.</li>
+								<li>The amount of upward force a power window exerts up is between 30 and 80 pounds.</li>
+								<li>It only takes 22 pounds of force to injure and potentially suffocate an infant.</li>
+							</ul>
 						</div>
 					</div>
-
-					<a href="prevention.php" class="action_btn">How to prevent these dangers &gt;</a>
-
-					<a href="#top" class="back-to-top">
-						<img src="images/back_to_top_icon.png"></a>
+					<button>
+						<a href="prevention.php" class="action_btn">How to prevent these dangers &gt;</a>
+					</button>
+					<button>
+						<a href="#top" class="back-to-top">
+							<img src="images/back_to_top_icon.png"></a>
+					</button>
 				</main>
 
 

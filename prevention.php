@@ -12,7 +12,7 @@
 
 			<!--    <?php include('includes/dangersnav.php')?>-->
 
-			<main role="main" class=" prev_main">
+			<main role="main" class="prev_main">
 				<h1>Prevention and Precautions</h1>
 				<p>You know the dangers. How do you prevent tragedy?</p>
 
