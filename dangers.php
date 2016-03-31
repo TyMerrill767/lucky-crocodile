@@ -32,13 +32,15 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<li>Deaths of children age 3 or younger: 87&#37;</li>
-							<li>Deaths of children age 1 and under: 54&#37;</li>
-							<li>Average number of child vehicular heat strokes &lpar;U.S. alone&rpar;: 37</li>
-							<li>10 minutes = 80&#37; increase in temperature</li>
-							<li>60&deg; outside can equal over 100&deg; inside of a car</li>
-							<li>104&deg; : The temperature that the internal organs begin to shut down</li>
-							<li>107&deg; = DEATH</li>
+                            <ul>
+                                <li>Deaths of children age 3 or younger: 87&#37;</li>
+                                <li>Deaths of children age 1 and under: 54&#37;</li>
+                                <li>Average number of child vehicular heat strokes &lpar;U.S. alone&rpar;: 37</li>
+                                <li>10 minutes = 80&#37; increase in temperature</li>
+                                <li>60&deg; outside can equal over 100&deg; inside of a car</li>
+                                <li>104&deg; : The temperature that the internal organs begin to shut down</li>
+                                <li>107&deg; = DEATH</li>
+                            </ul>
 						</div>
 						<div class="symptoms">
 							<h3>Symptoms of Heat Stroke:</h3>
@@ -64,11 +66,13 @@
 						</div>
 						<div class="facts">
 							<h3>Facts:</h3>
-							<li>4<sup>th</sup> leading cause of death in children under 5</li>
-							<li>ANY small item can be a risk</li>
-							<li>Most common: food</li>
-							<li>1 child chokes on food every 5 days</li>
-							<li>10,000: Number of children taken to the ER each year for choking</li>
+                            <ul>
+                                <li>4<sup>th</sup> leading cause of death in children under 5</li>
+                                <li>ANY small item can be a risk</li>
+                                <li>Most common: food</li>
+                                <li>1 child chokes on food every 5 days</li>
+                                <li>10,000: Number of children taken to the ER each year for choking</li>
+                            </ul>
 						</div>
 						<div class="symptoms">
 							<h3>Symptoms of Choking:</h3>
@@ -139,8 +143,7 @@
 						<div class="facts">
 							<h3>Facts:</h3>
 							<ul>
-								<li>Of all non&dash;traffic fatalities involving children under 15 years old from 2006 to 2010</li>
-								<li>30&#37; of those were from front&dash;overs while 34&#37; were from back&dash;overs.</li>
+								<li>Of all non&dash;traffic fatalities involving children under 15 years old from 2006 to 2010, 30&#37; of those were from front&dash;overs while 34&#37; were from back&dash;overs.</li>
 								<li>Front&dash;overs and back&dash;overs can happen in any vehicle because all vehicles have a blindzone, an area around a vehicle that can&rsquo;t be seen from the driver&rsquo;s seat.</li>
 								<li>The predominant age of back&dash;over victims is one year old.</li>
 								<li>Over 60&#37; of incidents involved larger size vehicle such as a truck, van, or SUV.</li>
