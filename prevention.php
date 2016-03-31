@@ -81,7 +81,7 @@
 				<a href="action.php" class="action_btn">Find out how you can take action &gt;&gt;</a>
 
 				<a href="#top" class="back-to-top">
-					<img src="images/back_to_top_icon.png"></a>
+					<img src="images/back_to_top_icon.png" alt="Back To Top Image"></a>
 			</main>
 
 			<?php include('includes/footer.php');?>
