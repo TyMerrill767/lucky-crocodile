@@ -240,7 +240,13 @@ a {
 	color: #327f9b;
 	text-decoration: none;
 }
-
+button {
+    background: none;
+    border: none;
+}
+button.back-to-top {
+    width: 10%;
+}
 
 /*Image Carousel Styling*/
 
@@ -249,15 +255,10 @@ a {
 	padding-top: 20px;
 }
 
-
-
-.owl-theme .owl-controls .owl-buttons div {
-	position: absolute;
-}
-
 #owl-demo .item img {
 	display: block;
 	height: auto;
+    width: 100%;
 }
 
 .resize {
@@ -701,7 +702,7 @@ a {
 	#owl-demo {
 		margin: auto;
 		padding-top: 20px;
-		width: 40%;
+		width: 100%;
 	}
 	.owl-theme .owl-controls .owl-buttons .owl-prev {
 		font-size: 3em;
