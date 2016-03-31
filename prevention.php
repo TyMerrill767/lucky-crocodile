@@ -22,13 +22,14 @@
 					<h3 class="prev_heat">Heat Stroke/Hypothermia:</h3>
 					<ul>
 						<li>Position your child&rsquo;s car seat on the passenger side to see your child easier.</li>
-						<li>Stage your car with cues to help remember your child:</li>
+						<li>Stage your car with cues to help remember your child:
 
 						<ul>
 							<li>Keep a stuffed animal in the car seat at all times. When you buckle baby in, place it on the dashboard or in the passenger seat.</li>
 							<li>Keep important items you need in the backseat with baby, such as a phone or bag.</li>
 							<li> Keep your vehicle stocked with toys &lpar;not small enough to be choked on&rpar; to keep your child awake and giving auditory prompts of their presence.</li>
 						</ul>
+                        </li>
 						<li>Many devices and apps are now available to help you remember that your child is in the vehicle.</li>
 					</ul>
 
