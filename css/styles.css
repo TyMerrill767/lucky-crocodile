@@ -258,7 +258,6 @@ a {
 #owl-demo .item img {
 	display: block;
 	height: auto;
-	width: 100%;
 }
 
 .resize {
@@ -443,7 +442,7 @@ a {
 }
 
 .prev_set {
-	background-position: 0 -265px;
+	background-position: 0 -530px;
 }
 
 .prev_window {
@@ -499,6 +498,7 @@ a {
 .shop-section {
 	max-width: 75%;
 	margin: 0 auto;
+    background: #EEAB37
 }
 
 .shop-section h2 {
@@ -644,6 +644,14 @@ a {
 	.facts_right {
 		width: 90%;
 	}
+.car_diagram {
+        display: inline;
+        background: rgba(255, 255, 255, .3);
+        border-radius: 100px;
+        padding: 4%;
+        margin-bottom: 2em;
+        max-width: 90%;
+    }
 	.facts {
 		padding-top: 2em;
 	}
@@ -651,6 +659,7 @@ a {
 		float: left;
 		width: 35%;
 		padding-right: 2.5em;
+        padding-bottom: 3em;
 	}
 	.float_right {
 		float: right;
@@ -721,14 +730,22 @@ a {
 	.brian {
 		text-align: left;
 	}
-    .dangers_nav{
+    .dangers_nav {
         font-size: 82%;
-        width: 17%;
+        width: 15%;
         float: right;
+        margin-right: 1%;
     }
-    .dangers_main{
-        margin-left: 5px;
+    .dangers_main {
+        margin-left: 5%;
     }
+    .car_diagram {
+        display: inline;
+        padding: 4%;
+        margin-bottom: 2em;
+        max-width: 90%;
+    }
+
 }
 
 
@@ -752,7 +769,7 @@ a {
 	#owl-demo {
 		margin: auto;
 		padding-top: 20px;
-		width: 50%;
+		width: 100%;
 	}
 	.owl-theme .owl-controls .owl-buttons .owl-prev {
 		font-size: 2em;
@@ -771,19 +788,41 @@ a {
 		-webkit-shape-outside: none;
 		shape-outside: none;
 	}
+    .prev_main h3 {
+        padding-left: 3.75em;
+        padding-bottom: 1em;
+        font-size: 1.15em;
+        max-width: 80%;
+        border: 1px solid red;
+    }
     .dangers_nav {
         display: none;
     }
-	.dangers_main {
-		margin: 0 auto;
-		padding: 0;
-        width: 75%
+.dangers_main {
+		font-size: 1em;
+		margin: 0;
+		padding: 0 0 0 3%;
+		width: 80%
+	}
+	.resize {
+		padding-left: 13%;
+	}
+	.danger_facts h2 {
+		width: 100%;
+	}
+	.danger_facts h3 {
+		font-size: 1.15em;
+		width: 80%;
+	}
+	p {
+		font-size: 1em;
 	}
 	.danger_facts ul {
 		width: 100%;
 		padding: 0;
 	}
 	.danger_facts li {
+        font-size: 1em;
 		width: 100%;
 		margin: 0;
 		padding: 0;
@@ -795,18 +834,34 @@ a {
 		margin: 0;
 		padding: 1em 0;
 	}
-	.intro {
-		max-width: 100%;
-		margin: 3%;
-		padding-right: 5%;
-	}
+    .intro p {
+        font-size: 1em;
+        width: 90%;
+        margin: 3%;
+    }
+    .car_diagram {
+        display: none;
+    }
+    .group_safety {
+        width: 50%;
+    }
+    .action_columns {
+        text-align: left;
+    }
+    .about_image {
+        min-width: 250px;
+    }
 	.brian {
 		text-align: left;
 	}
+
     .back-to-top {
         width: 10%;
     }
     .back-to-top img{
         width: 50px;
     }
+    footer {
+		font-size: .5em;
+	}
 }
