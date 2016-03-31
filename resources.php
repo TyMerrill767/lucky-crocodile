@@ -17,14 +17,14 @@
 
 				<p>Many of our images are available as posters for you to order. These posters are great for daycare facilities, churches, and other venues where children are likely to be present with their caregivers.</p>
 
-				<p>We sell each kit for the low price of $29.99 and the proceeds go further fund the efforts of D.O.N.T.</p>
+				<p>We sell each kit for the low price of $29.99 and the proceeds go to further fund the efforts of D.O.N.T.</p>
 
 				<div class="shop-section">
 					<h2>&ldquo;What Would You Trade&rdquo; Posters</h2>
 					<img src="images/psa_posters.png" alt="6 Posters" class="resource_img">
 					<ul>
 						<li>Kit of 6 Posters</li>
-						<li>30&rdquo; X 30 &rdquo;</li>
+						<li>30&rdquo; X 30&rdquo;</li>
 						<li>Printed on high quality glossy stock</li>
 					</ul>
 				</div>
