@@ -240,11 +240,11 @@ a {
 	color: #327f9b;
 	text-decoration: none;
 }
-button {
+.button {
     background: none;
     border: none;
 }
-button.back-to-top {
+.button .back-to-top {
     width: 10%;
 }
 
@@ -303,7 +303,6 @@ button.back-to-top {
 /* -------------------------------- dangers ---------------------------------*/
 
 .dangers_main {
-	max-width: 80%;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -333,18 +332,20 @@ button.back-to-top {
 	display: inline;
 }
 
-
-
 .dangers_nav li {
 	background-image: url(../images/PSAsprites_.png);
 	background-repeat: no-repeat;
 	font-size: 1.2em;
 	height: 60px;
 	list-style: none;
-	margin-left: 2em;
 	margin: .1em 1.2em;
 	padding: .8em;
 	width: 70px;
+}
+.dangers_nav li.title{
+    background: none;
+    text-decoration: underline;
+    width: 200px;
 }
 
 .dangers_nav a {
@@ -568,6 +569,13 @@ button.back-to-top {
 	.float_imgs {
 		display: none;
 	}
+    .dangers_nav p{
+        font-size: 110%;
+    }
+    .dangers_nav li.title{
+        margin-left: -3px;
+        margin-bottom: -35px;
+    }
 }
 
 
@@ -681,6 +689,11 @@ button.back-to-top {
     }
     .dangers_main{
         margin-left: 275px;
+        max-width: 80%;
+    }
+    .dangers_nav li.title{
+        margin-bottom: -30px;
+        margin-left: -27px;
     }
 }
 
@@ -735,10 +748,11 @@ button.back-to-top {
         font-size: 82%;
         width: 15%;
         float: right;
-        margin-right: 1%;
+        margin-right: 15%;
     }
     .dangers_main {
         margin-left: 5%;
+        max-width: 60%;
     }
     .car_diagram {
         display: inline;
@@ -799,7 +813,7 @@ button.back-to-top {
     .dangers_nav {
         display: none;
     }
-.dangers_main {
+    .dangers_main {
 		font-size: 1em;
 		margin: 0;
 		padding: 0 0 0 3%;
