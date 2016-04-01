@@ -1,5 +1,5 @@
 <ul class="dangers_nav">
-	<p>Learn the Risks:</p>
+    <li class="title"><p>Learn the Risks:</p></li>
 	<li class="heatstroke">
 		<a href="dangers.php#heatstroke" title="heat stroke"></a>
 	</li>
