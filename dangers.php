@@ -205,13 +205,12 @@
 							</ul>
 						</div>
 					</div>
-					<button>
-						<a href="prevention.php" class="action_btn">How to prevent these dangers &gt;&gt;</a>
-					</button>
-					<button>
-						<a href="#top" class="back-to-top">
-							<img src="images/back_to_top_icon.png"></a>
-					</button>
+
+						<a href="prevention.php" class="button action_btn">How to prevent these dangers &gt;&gt;</a>
+
+						<a href="#top" class="button back-to-top">
+							<img src="images/back_to_top_icon.png" alt="Back To Top Image"></a>
+
 				</main>
 
 
