@@ -1,0 +1,212 @@
+/*
+
+Table of Contents
+
+RESET - normalize.css reference
+
+HEADER - Site name, logo, navigation
+
+SIDEBAR - Submenu, search bar, shortlists
+
+MAIN CONTENT - Articles, search results
+
+FOOTER – Copyright
+
+Color Palette
+
+*/
+
+/* ------------ ‘RESET ------------*/
+@import url("normalize.css");
+@import url("slicknav.min.css");
+@import url("carousel.css");
+
+/* ------------ ‘HEADER ------------*/
+/*global styles*/
+/* header styling */
+nav ul li{
+    display: inline;
+    list-style: none;
+}
+
+#owl-demo{
+    margin: auto;
+    padding-top: 20px;
+}
+
+#slide-area{
+    width: 100%;
+    background: #6B6B6B;
+}
+
+#owl-demo .item img{
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+#logo{
+    display: block;
+    margin: auto;
+}
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+    /* header styling */
+    #menu{
+        display: none;
+    }
+
+    nav ul li{
+        text-align: center;
+        width: 100%;
+    }
+
+    .js .slicknav_menu{
+        display: block;
+    }
+
+    #owl-demo{
+        width: 49%;
+    }
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:768px){
+    /* navigation styling */
+    .slicknav_menu{
+        display: none;
+    }
+}
+
+/*desktop styles*/
+@media only screen and (min-width:769px){
+    /* navigation styling */
+    .slicknav_menu{
+        display: none;
+    }
+
+    #homeNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") 0px 25px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #homeNav:hover{
+        background-position: 0px 0px;
+    }
+
+    #dangerNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") -130px 25px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #dangerNav:hover{
+        background-position: -130px 0px;
+    }
+
+    #prevNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") -260px 25px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #prevNav:hover{
+        background-position: -260px 0px;
+    }
+
+    #actionNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") -30px -115px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #actionNav:hover{
+        background-position: -30px -140px;
+    }
+
+    #aboutNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/navicons.png") -185px -140px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #aboutNav:hover{
+        background-position: -185px -165px;
+    }
+
+    #resourceNav{
+        margin: 0 10px;
+        padding: 70px 30px 0;
+        background: url("../images/resources.png");
+        background-position: 0 25px;
+        background-repeat: no-repeat;
+        transition: all 0.5s ease 0s;
+    }
+
+    #resourceNav:hover{
+        background-position: 0px 0px;
+    }
+}
+/* ------------ ‘MAIN CONTENT------------*/
+/*global styles*/
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:768px){
+
+}
+
+/*desktop styles*/
+@media only screen and (min-width:769px){
+
+}
+/* ------------ ‘SIDEBAR ------------*/
+/*global styles*/
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:768px){
+
+}
+
+/*desktop styles*/
+@media only screen and (min-width:769px){
+
+}
+/* ------------ ‘FOOTER ------------*/
+/*global styles*/
+
+/*mobile styles*/
+@media only screen and (max-width:480px){
+
+}
+
+/*tablet styles*/
+@media only screen and (min-width: 481px) and (max-width:768px){
+
+}
+
+/*desktop styles*/
+@media only screen and (min-width:769px){
+
+}

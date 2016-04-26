@@ -1,0 +1,882 @@
+/*
+
+Table of Contents
+
+RESET - normalize.css reference
+
+HEADER - Site name, logo, navigation
+
+SIDEBAR - Submenu, search bar, shortlists
+
+MAIN CONTENT - Articles, search results
+
+FOOTER – Copyright
+
+Color Palette
+
+*/
+
+
+/* ------------ ‘RESET ------------*/
+
+@import url("normalize.css");
+@import url("slicknav.min.css");
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+/* ------------ ‘HEADER ------------*/
+
+
+/*global styles*/
+
+html {
+	background-attachment: fixed;
+	background-color: rgba(120, 120, 120, .85);
+}
+
+header {
+	background-attachment: fixed;
+	background-color: #327F9B;
+	border-bottom: 5px solid #000;
+}
+
+body {
+	font-family: 'Montserrat';
+	margin: auto;
+}
+
+html,
+header,
+nav,
+.slicknav_menu {
+	background-image: url(../images/asfalt-dark.png);
+}
+
+
+/* header styling */
+
+nav {
+	font-size: 1.6em;
+	font-weight: 400;
+	margin: auto;
+	text-align: center;
+}
+
+nav li {
+	align-content: center;
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	padding-top: 30px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+	padding: 0 1em;
+}
+
+.nav {
+	background-image: url(../images/navicons.png);
+	background-repeat: no-repeat;
+	padding-top: 5em;
+}
+
+#tagline {
+	color: #fff;
+	margin: 0;
+	padding-bottom: 2.5em;
+	text-align: center;
+}
+
+.home {
+	background-position: 6px 50px;
+	padding-right: 2.2em;
+}
+
+.dangers {
+	background-position: 18px -182px;
+}
+
+.prev {
+	background-position: 32px -414px;
+}
+
+.action {
+	background-position: 37px -647px;
+}
+
+.about {
+	background-position: 20px -880px;
+}
+
+.resources {
+	background-position: 33px -1110px;
+}
+
+.home:hover {
+	background-position: 6px 10px;
+}
+
+.dangers:hover {
+	background-position: 18px -222px;
+}
+
+.prev:hover {
+	background-position: 32px -454px;
+}
+
+.action:hover {
+	background-position: 37px -687px;
+}
+
+.about:hover {
+	background-position: 20px -920px;
+}
+
+.resources:hover {
+	background-position: 33px -1150px;
+}
+
+.home:hover,
+.dangers:hover,
+.prev:hover,
+.action:hover,
+.about:hover,
+.resources:hover {
+	-webkit-transition: all .5s ease 0s;
+	-o-transition: all .5s ease 0s;
+	transition: all .5s ease 0s;
+}
+
+#home-active {
+	background-position: 6px 10px;
+}
+
+#dangers-active {
+	background-position: 18px -222px;
+}
+
+#prev-active {
+	background-position: 32px -454px;
+}
+
+#action-active {
+	background-position: 37px -686px;
+}
+
+#about-active {
+	background-position: 20px -920px;
+}
+
+#resources-active {
+	background-position: 33px -1150px;
+}
+
+nav a:hover,
+#home-active,
+#about-active,
+#action-active,
+#dangers-active,
+#prev-active,
+#resources-active {
+	color: #DF2026;
+}
+
+#logo {
+	display: block;
+	margin: auto;
+	padding-top: 35px;
+	max-width: 40%;
+}
+
+footer {
+	display: block;
+	clear: both;
+    color: white;
+    text-align: center;
+    font-size: .75em;
+    line-height: .5em;
+	padding: 2em 0 1em 2em;
+	margin-top: 2em;
+	background: #327F9B;
+	background-image: url(../images/asfalt-dark.png);
+	border-top: 5px solid black;
+}
+
+
+/* ------------ Main Content ------------*/
+
+main {
+	position: relative;
+	margin: auto;
+	max-width: 1400px;
+	padding: .5em 5em 3em;
+}
+
+h1 {
+	color: #fcb118;
+	font-size: 3.5em;
+}
+
+h2 {
+	background-color: #000;
+	border-radius: 0 32em 32em 0;
+	color: #FCB118;
+	letter-spacing: .1em;
+	padding: .5em 1em;
+	margin-bottom: 2em;
+	width: 90%;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+p {
+	font-size: 1.25em;
+}
+
+a {
+	color: #327f9b;
+	text-decoration: none;
+}
+.button {
+    background: none;
+    border: none;
+}
+.button .back-to-top {
+    width: 10%;
+}
+
+/*Image Carousel Styling*/
+
+#owl-demo {
+	margin: auto;
+	padding-top: 20px;
+}
+
+#owl-demo .item img {
+	display: block;
+	height: auto;
+    width: 100%;
+}
+
+.resize {
+	display: inline;
+	height: auto;
+	width: 80%;
+}
+
+.action_btn {
+	background: #ccc;
+	border-radius: 5px;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .5);
+	padding: .5em;
+	margin-bottom: 1em;
+	display: block;
+	float: left;
+	clear: both;
+}
+
+.action_btn:hover {
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, .5);
+}
+
+.take_action_img {
+	margin: auto;
+	width: 100%;
+}
+
+.cir_shape {
+	font-size: 1.15em;
+	width: 100%;
+}
+
+.cir_shape img {
+	margin: 1em;
+	-webkit-shape-outside: circle();
+	shape-outside: circle();
+	width: 40%;
+}
+
+
+/* -------------------------------- dangers ---------------------------------*/
+
+.dangers_main {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.intro {
+	width: 90%;
+	margin: 3% auto;
+	padding-right: 5%;
+}
+
+.dangers_p {
+	display: inline-block;
+	float: left;
+	width: 40%;
+	font-size: 1.75em;
+	padding-right: 2em;
+}
+
+.danger_facts {
+	clear: both;
+	line-height: 1.75em;
+	margin: 2em auto;
+}
+
+.danger_facts p {
+	width: 85%;
+	display: inline;
+}
+
+.dangers_nav li {
+	background-image: url(../images/PSAsprites_.png);
+	background-repeat: no-repeat;
+	font-size: 1.2em;
+	height: 60px;
+	list-style: none;
+	margin: .1em 1.2em;
+	padding: .8em;
+	width: 70px;
+}
+.dangers_nav li.title{
+    background: none;
+    text-decoration: underline;
+    width: 200px;
+}
+
+.dangers_nav a {
+	margin: -.8em;
+	padding: .7em 2.5em 2.5em;
+}
+
+.danger_facts li {
+	font-size: 1.15em;
+}
+
+.heatstroke {
+	background-position: -1px -116px;
+}
+
+.choking {
+	background-position: -490px -116px;
+}
+
+.poison {
+	background-position: -735px -116px;
+}
+
+.front_back {
+	background-position: -125px -116px;
+}
+
+.abduction {
+	background-position: -367px -116px;
+}
+
+.in_motion {
+	background-position: -860px -116px;
+}
+
+.power_windows {
+	background-position: -615px -116px;
+}
+
+.symptoms a {
+	color: #fcb118;
+}
+
+
+/* -------------------------------- take action ---------------------------------*/
+
+.group_safety {
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 3em;
+	width: 40%;
+}
+
+.action_columns {
+	-moz-column-width: 400px;
+	-webkit-column-width: 400px;
+	column-width: 400px;
+	-moz-column-gap: 4em;
+	-webkit-column-gap: 4em;
+	column-gap: 4em;
+	padding: 0 5%;
+	text-align: justify;
+}
+
+.action_columns p {
+	line-height: 1.5em;
+	margin-bottom: 1em;
+}
+
+.action_columns p:first-child {
+	margin-top: 0;
+}
+
+
+/* -------------------------------- prevention ---------------------------------*/
+
+.prev_main h3 {
+	/*    border: 2px dashed;*/
+	margin-left: .5em;
+	max-width: 20em;
+	padding: .5em;
+}
+
+.prev_main h3 {
+	background-image: url(../images/icons_vert_small.png);
+	background-repeat: no-repeat;
+	padding-left: 2.75em;
+}
+
+.prev_choking {
+	background-position: 0 -1050px;
+}
+
+.prev_front {
+	background-position: 0 -265px;
+}
+
+.prev_set {
+	background-position: 0 -530px;
+}
+
+.prev_window {
+	background-position: 0 -1312px;
+}
+
+
+/* -------------------------------- about us ---------------------------------*/
+
+.aboutH3 {
+	color: #fcb118;
+	font-weight: 400;
+	padding-top: 3em;
+	margin-bottom: 1em;
+}
+
+.cir_shape p {
+	margin-top: .25em;
+	max-width: 85%;
+}
+
+.about_image {
+	float: left;
+	height: auto;
+	min-width: 300px;
+}
+
+.bpa_info {
+	clear: both;
+	padding-top: 2em;
+}
+
+.brian {
+	text-align: right;
+}
+
+
+/* -------------------------- resources ------------------------------*/
+
+.resource_img {
+	height: auto;
+	width: 100%;
+}
+
+.posters {
+	padding: 2em;
+}
+
+.posters ul {
+	font-size: 1.25em;
+}
+
+.shop-section {
+	max-width: 75%;
+	margin: 0 auto;
+    background: #EEAB37
+}
+
+.shop-section h2 {
+	width: 98%;
+	margin: 0;
+	padding: 1em 0 1em 2%;
+}
+
+
+/* -------------------------- back to top icon  ------------------------------*/
+
+.back-to-top {
+	position: fixed;
+	bottom: 0;
+	z-index: 100;
+	margin-bottom: 3%;
+	right: 3%;
+}
+
+
+/* -------------------------------- Media Styles ---------------------------------*/
+
+
+/*tablet styles*/
+
+@media only screen and (max-width:850px) {
+	/* header styling */
+	#menu {
+		display: none;
+	}
+	nav ul li {
+		text-align: center;
+		width: 100%;
+	}
+	.js .slicknav_menu {
+		display: block;
+	}
+	.slicknav_menu {
+		background-color: #327F9B;
+	}
+	.slicknav_menu li {
+		font-size: 1.5em;
+		padding: 0 0 .25em;
+	}
+	.slicknav_nav a:hover {
+		color: #f63;
+	}
+	#logo {
+		height: auto;
+		padding-bottom: 0;
+	}
+	main {
+		padding: .5em 1.75em 3em;
+	}
+	h1 {
+		font-size: 2em;
+	}
+	h2,
+	.posters h2 {
+		font-size: 1em;
+	}
+	h3 {
+		.9em;
+	}
+	.float_img,
+	.float_imgs {
+		display: none;
+	}
+    .dangers_nav p{
+        font-size: 110%;
+    }
+    .dangers_nav li.title{
+        margin-left: -3px;
+        margin-bottom: -35px;
+    }
+}
+
+
+/*desktop styles*/
+
+@media only screen and (min-width:851px) {
+	/* navigation styling */
+	.slicknav_menu {
+		display: none;
+	}
+	#home-page-main {
+		margin: auto;
+		width: 85%;
+	}
+	#home-page-main img {
+		width: 85%;
+	}
+	#tagline {
+		font: 300% Anton;
+		line-height: 2em;
+	}
+	#owl-demo {
+		margin: auto;
+		padding-top: 20px;
+		width: 100%;
+	}
+	.owl-theme .owl-controls .owl-buttons .owl-prev {
+		font-size: 3em;
+		left: -25%;
+		opacity: 1;
+		top: 40%;
+	}
+	.owl-theme .owl-controls .owl-buttons .owl-next {
+		font-size: 3em;
+		opacity: 1;
+		right: -25%;
+		top: 40%;
+	}
+	nav {
+		background-color: #FCB118;
+		font-family: Anton;
+		font-size: 1.5em;
+		font-weight: 400;
+		margin: auto;
+		margin-top: -70px;
+		min-width: 950px;
+		text-align: center;
+		height: 75px;
+		width: 97%;
+	}
+	.main_right {
+		min-width: 750px;
+		position: relative;
+	}
+	.dangers_nav {
+		left: 1%;
+		padding-top: 2em;
+		position: absolute;
+	}
+	.float_img {
+		width: 45%;
+		border-radius: 25px;
+		float: left;
+	}
+	.float_imgs {
+		width: 75%;
+		border-radius: 25px;
+	}
+	.danger_facts {
+		padding-top: 3em;
+	}
+	.how,
+	.facts,
+	.symptoms,
+	.facts_right {
+		width: 90%;
+	}
+.car_diagram {
+        display: inline;
+        background: rgba(255, 255, 255, .3);
+        border-radius: 100px;
+        padding: 4%;
+        margin-bottom: 2em;
+        max-width: 90%;
+    }
+	.facts {
+		padding-top: 2em;
+	}
+	.float_left {
+		float: left;
+		width: 35%;
+		padding-right: 2.5em;
+        padding-bottom: 3em;
+	}
+	.float_right {
+		float: right;
+		width: 35%;
+		padding-left: 2.5em;
+	}
+	.main_info {
+		margin: 0 3em;
+	}
+	.about_team {
+		padding: 0 5%;
+	}
+    .back-to-top {
+        width: 5%;
+    }
+    .back-to-top img {
+        width: 150%
+    }
+    .dangers_main{
+        margin-left: 275px;
+        max-width: 80%;
+    }
+    .dangers_nav li.title{
+        margin-bottom: -30px;
+        margin-left: -27px;
+    }
+}
+
+
+/*tablet styles*/
+
+@media only screen and (min-width: 481px) and (max-width:850px) {
+	#home-page-main {
+		font-size: 85%;
+		margin: auto;
+		width: 90%;
+	}
+	#home-page-main img {
+		width: 95%;
+	}
+	#tagline {
+		font: 180% Anton;
+	}
+	#owl-demo {
+		margin: auto;
+		padding-top: 20px;
+		width: 100%;
+	}
+	.owl-theme .owl-controls .owl-buttons .owl-prev {
+		font-size: 3em;
+		left: -45%;
+		opacity: 1;
+		top: 40%;
+	}
+	.owl-theme .owl-controls .owl-buttons .owl-next {
+		font-size: 3em;
+		opacity: 1;
+		right: -45%;
+		top: 40%;
+	}
+	.dangers_p,
+	.dangers_p2 {
+		font-size: 1.5em;
+		width: 100%;
+		margin: 0;
+		padding: 1em 0;
+	}
+	.intro {
+		max-width: 100%;
+		margin: 3%;
+		padding-right: 5%;
+	}
+	.brian {
+		text-align: left;
+	}
+    .dangers_nav {
+        font-size: 82%;
+        width: 15%;
+        float: right;
+        margin-right: 15%;
+    }
+    .dangers_main {
+        margin-left: 5%;
+        max-width: 60%;
+    }
+    .car_diagram {
+        display: inline;
+        padding: 4%;
+        margin-bottom: 2em;
+        max-width: 90%;
+    }
+
+}
+
+
+/*mobile styles*/
+
+@media only screen and (max-width:480px) {
+	#home-page-main {
+		font-size: 75%;
+		margin: auto;
+		width: 90%;
+	}
+	#home-page-main h1 {
+		font-size: 200%;
+	}
+	#home-page-main img {
+		width: 95%;
+	}
+	#tagline {
+		font: 130% Anton;
+	}
+	#owl-demo {
+		margin: auto;
+		padding-top: 20px;
+		width: 100%;
+	}
+	.owl-theme .owl-controls .owl-buttons .owl-prev {
+		font-size: 2em;
+		left: -45%;
+		opacity: 1;
+		top: 40%;
+	}
+	.owl-theme .owl-controls .owl-buttons .owl-next {
+		font-size: 2em;
+		opacity: 1;
+		right: -45%;
+		top: 40%;
+	}
+	.cir_shape img {
+		-moz-shape-outside: none;
+		-webkit-shape-outside: none;
+		shape-outside: none;
+	}
+    .prev_main h3 {
+        padding-left: 3.75em;
+        padding-bottom: 1em;
+        font-size: 1.15em;
+        max-width: 80%;
+        border: 1px solid red;
+    }
+    .dangers_nav {
+        display: none;
+    }
+    .dangers_main {
+		font-size: 1em;
+		margin: 0;
+		padding: 0 0 0 3%;
+		width: 80%
+	}
+	.resize {
+		padding-left: 13%;
+	}
+	.danger_facts h2 {
+		width: 100%;
+	}
+	.danger_facts h3 {
+		font-size: 1.15em;
+		width: 80%;
+	}
+	p {
+		font-size: 1em;
+	}
+	.danger_facts ul {
+		width: 100%;
+		padding: 0;
+	}
+	.danger_facts li {
+        font-size: 1em;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.dangers_p,
+	.dangers_p2 {
+		font-size: 1.25em;
+		width: 100%;
+		margin: 0;
+		padding: 1em 0;
+	}
+    .intro p {
+        font-size: 1em;
+        width: 90%;
+        margin: 3%;
+    }
+    .car_diagram {
+        display: none;
+    }
+    .group_safety {
+        width: 50%;
+    }
+    .action_columns {
+        text-align: left;
+    }
+    .about_image {
+        min-width: 250px;
+    }
+	.brian {
+		text-align: left;
+	}
+
+    .back-to-top {
+        width: 10%;
+    }
+    .back-to-top img{
+        width: 50px;
+    }
+    footer {
+		font-size: .5em;
+	}
+}
